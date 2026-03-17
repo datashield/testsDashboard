@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="arg-ds.asCharacter" timestamp="2026-03-17T15:53:31Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="7.439">
+    <testcase time="7.439" classname="arg_ds.asCharacter" name="asCharacter_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.asDataMatrix" timestamp="2026-03-17T15:53:38Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.956">
+    <testcase time="5.956" classname="arg_ds.asDataMatrix" name="asDataMatrix_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.asFactor" timestamp="2026-03-17T15:53:44Z" hostname="runnervm46oaq" tests="3" skipped="0" failures="0" errors="0" time="5.666">
+    <testcase time="5.656" classname="arg_ds.asFactor" name="asFactor_erros"/>
+    <testcase time="0.00500000000000256" classname="arg_ds.asFactor" name="asFactor_erros"/>
+    <testcase time="0.00499999999999901" classname="arg_ds.asFactor" name="asFactor_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.asInteger" timestamp="2026-03-17T15:53:50Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.735">
+    <testcase time="5.735" classname="arg_ds.asInteger" name="asInteger_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.asList" timestamp="2026-03-17T15:53:56Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.757">
+    <testcase time="5.757" classname="arg_ds.asList" name="asList_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.asLogical" timestamp="2026-03-17T15:54:01Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.637">
+    <testcase time="5.637" classname="arg_ds.asLogical" name="asLogical_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.asMatrix" timestamp="2026-03-17T15:54:07Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.685">
+    <testcase time="5.685" classname="arg_ds.asMatrix" name="asMatrix_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.asNumeric" timestamp="2026-03-17T15:54:13Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.647">
+    <testcase time="5.647" classname="arg_ds.asNumeric" name="asNumeric_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.assign" timestamp="2026-03-17T15:54:18Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.636">
+    <testcase time="5.636" classname="arg_ds.assign" name="assign_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.auc" timestamp="2026-03-17T15:54:24Z" hostname="runnervm46oaq" tests="2" skipped="0" failures="0" errors="0" time="0.191">
+    <testcase time="0.186" classname="arg_ds.auc" name="ds.auc_errors_for_null_pred_or_y"/>
+    <testcase time="0.00499999999999545" classname="arg_ds.auc" name="ds.auc_errors_for_null_pred_or_y"/>
+  </testsuite>
+  <testsuite name="arg-ds.Boole" timestamp="2026-03-17T15:54:24Z" hostname="runnervm46oaq" tests="5" skipped="0" failures="0" errors="0" time="5.518">
+    <testcase time="5.498" classname="arg_ds.Boole" name="Boole_erros"/>
+    <testcase time="0.00499999999999545" classname="arg_ds.Boole" name="Boole_erros"/>
+    <testcase time="0.00500000000000256" classname="arg_ds.Boole" name="Boole_erros"/>
+    <testcase time="0.00500000000000256" classname="arg_ds.Boole" name="Boole_erros"/>
+    <testcase time="0.00499999999999545" classname="arg_ds.Boole" name="Boole_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.c" timestamp="2026-03-17T15:54:30Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.666">
+    <testcase time="5.666" classname="arg_ds.c" name="simple_c_errors"/>
+  </testsuite>
+  <testsuite name="arg-ds.cbind" timestamp="2026-03-17T15:54:35Z" hostname="runnervm46oaq" tests="2" skipped="0" failures="0" errors="0" time="8.289">
+    <testcase time="8.05799999999999" classname="arg_ds.cbind" name="cbind_erros"/>
+    <testcase time="0.231000000000009" classname="arg_ds.cbind" name="cbind_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.changeRefGroup" timestamp="2026-03-17T15:54:44Z" hostname="runnervm46oaq" tests="3" skipped="0" failures="0" errors="0" time="5.832">
+    <testcase time="5.59999999999999" classname="arg_ds.changeRefGroup" name="changeRefGroup_erros"/>
+    <testcase time="0.00500000000000966" classname="arg_ds.changeRefGroup" name="changeRefGroup_erros"/>
+    <testcase time="0.22699999999999" classname="arg_ds.changeRefGroup" name="changeRefGroup_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.class" timestamp="2026-03-17T15:54:50Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.597">
+    <testcase time="5.59700000000001" classname="arg_ds.class" name="class_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.colnames" timestamp="2026-03-17T15:54:55Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.595">
+    <testcase time="5.595" classname="arg_ds.colnames" name="simple_colnames_errors"/>
+  </testsuite>
+  <testsuite name="arg-ds.completeCases" timestamp="2026-03-17T15:55:01Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.565">
+    <testcase time="5.565" classname="arg_ds.completeCases" name="completeCases_errors"/>
+  </testsuite>
+  <testsuite name="arg-ds.cor" timestamp="2026-03-17T15:55:06Z" hostname="runnervm46oaq" tests="3" skipped="0" failures="0" errors="0" time="6.631">
+    <testcase time="5.667" classname="arg_ds.cor" name="cor_erros"/>
+    <testcase time="0.212000000000003" classname="arg_ds.cor" name="cor_erros"/>
+    <testcase time="0.751999999999995" classname="arg_ds.cor" name="cor_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.corTest" timestamp="2026-03-17T15:55:13Z" hostname="runnervm46oaq" tests="2" skipped="0" failures="0" errors="0" time="5.698">
+    <testcase time="5.693" classname="arg_ds.corTest" name="simple_arg_test"/>
+    <testcase time="0.00499999999999545" classname="arg_ds.corTest" name="simple_arg_test"/>
+  </testsuite>
+  <testsuite name="arg-ds.cov" timestamp="2026-03-17T15:55:19Z" hostname="runnervm46oaq" tests="3" skipped="0" failures="0" errors="0" time="6.635">
+    <testcase time="5.70700000000001" classname="arg_ds.cov" name="cov_erros"/>
+    <testcase time="0.170000000000002" classname="arg_ds.cov" name="cov_erros"/>
+    <testcase time="0.757999999999996" classname="arg_ds.cov" name="cov_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.dataFrame" timestamp="2026-03-17T15:55:25Z" hostname="runnervm46oaq" tests="2" skipped="0" failures="0" errors="0" time="6.3">
+    <testcase time="5.73999999999999" classname="arg_ds.dataFrame" name="dataframe_erros"/>
+    <testcase time="0.560000000000002" classname="arg_ds.dataFrame" name="dataframe_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.dataFrameFill" timestamp="2026-03-17T15:55:32Z" hostname="runnervm46oaq" tests="3" skipped="0" failures="0" errors="0" time="6.084">
+    <testcase time="5.70400000000001" classname="arg_ds.dataFrameFill" name="dataFrameFill_erros"/>
+    <testcase time="0.173000000000002" classname="arg_ds.dataFrameFill" name="dataFrameFill_erros"/>
+    <testcase time="0.206999999999994" classname="arg_ds.dataFrameFill" name="dataFrameFill_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.dataFrameSort" timestamp="2026-03-17T15:55:38Z" hostname="runnervm46oaq" tests="10" skipped="0" failures="0" errors="0" time="7.322">
+    <testcase time="5.96000000000001" classname="arg_ds.dataFrameSort" name="dataFrameSort_noargs"/>
+    <testcase time="0.0120000000000005" classname="arg_ds.dataFrameSort" name="dataFrameSort_noargs"/>
+    <testcase time="0.00199999999998113" classname="arg_ds.dataFrameSort" name="dataFrameSort_noargs"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.dataFrameSort" name="dataFrameSort_noargs"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.dataFrameSort" name="dataFrameSort_noargs"/>
+    <testcase time="1.339" classname="arg_ds.dataFrameSort" name="dataFrameSort_factors"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.dataFrameSort" name="dataFrameSort_factors"/>
+    <testcase time="0.000999999999976353" classname="arg_ds.dataFrameSort" name="dataFrameSort_factors"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.dataFrameSort" name="dataFrameSort_factors"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.dataFrameSort" name="dataFrameSort_factors"/>
+  </testsuite>
+  <testsuite name="arg-ds.dataFrameSubset" timestamp="2026-03-17T15:55:45Z" hostname="runnervm46oaq" tests="30" skipped="0" failures="0" errors="0" time="7.326">
+    <testcase time="5.828" classname="arg_ds.dataFrameSubset" name="setup"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.dataFrameSubset" name="setup"/>
+    <testcase time="0.00199999999998113" classname="arg_ds.dataFrameSubset" name="setup"/>
+    <testcase time="0.007000000000005" classname="arg_ds.dataFrameSubset" name="dataFrameSubset_erros"/>
+    <testcase time="0.007000000000005" classname="arg_ds.dataFrameSubset" name="dataFrameSubset_erros"/>
+    <testcase time="0.00600000000000023" classname="arg_ds.dataFrameSubset" name="dataFrameSubset_erros"/>
+    <testcase time="0.007000000000005" classname="arg_ds.dataFrameSubset" name="dataFrameSubset_erros"/>
+    <testcase time="0.325999999999993" classname="arg_ds.dataFrameSubset" name="dataFrameSubset_erros"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.dataFrameSubset" name="dataFrameSubset_erros"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.dataFrameSubset" name="dataFrameSubset_erros"/>
+    <testcase time="0.000999999999976353" classname="arg_ds.dataFrameSubset" name="dataFrameSubset_erros"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.dataFrameSubset" name="dataFrameSubset_erros"/>
+    <testcase time="0.324000000000012" classname="arg_ds.dataFrameSubset" name="dataFrameSubset_erros"/>
+    <testcase time="0.000999999999976353" classname="arg_ds.dataFrameSubset" name="dataFrameSubset_erros"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.dataFrameSubset" name="dataFrameSubset_erros"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.dataFrameSubset" name="dataFrameSubset_erros"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.dataFrameSubset" name="dataFrameSubset_erros"/>
+    <testcase time="0.329999999999984" classname="arg_ds.dataFrameSubset" name="dataFrameSubset_erros"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.dataFrameSubset" name="dataFrameSubset_erros"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.dataFrameSubset" name="dataFrameSubset_erros"/>
+    <testcase time="0.000999999999976353" classname="arg_ds.dataFrameSubset" name="dataFrameSubset_erros"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.dataFrameSubset" name="dataFrameSubset_erros"/>
+    <testcase time="0.329000000000008" classname="arg_ds.dataFrameSubset" name="dataFrameSubset_erros"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.dataFrameSubset" name="dataFrameSubset_erros"/>
+    <testcase time="0.00199999999998113" classname="arg_ds.dataFrameSubset" name="dataFrameSubset_erros"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.dataFrameSubset" name="dataFrameSubset_erros"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.dataFrameSubset" name="dataFrameSubset_erros"/>
+    <testcase time="0.13300000000001" classname="arg_ds.dataFrameSubset" name="shutdown"/>
+    <testcase time="0.00199999999998113" classname="arg_ds.dataFrameSubset" name="shutdown"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.dataFrameSubset" name="shutdown"/>
+  </testsuite>
+  <testsuite name="arg-ds.dim" timestamp="2026-03-17T15:55:52Z" hostname="runnervm46oaq" tests="3" skipped="0" failures="0" errors="0" time="6.014">
+    <testcase time="5.63300000000001" classname="arg_ds.dim" name="dim_erros"/>
+    <testcase time="0.209000000000003" classname="arg_ds.dim" name="dim_erros"/>
+    <testcase time="0.171999999999997" classname="arg_ds.dim" name="dim_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.exists" timestamp="2026-03-17T15:55:58Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.552">
+    <testcase time="5.55199999999999" classname="arg_ds.exists" name="simple_exists_errors"/>
+  </testsuite>
+  <testsuite name="arg-ds.exp" timestamp="2026-03-17T15:56:04Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.543">
+    <testcase time="5.54300000000001" classname="arg_ds.exp" name="exp_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.foobar" timestamp="2026-03-17T15:56:09Z" hostname="runnervm46oaq" tests="30" skipped="0" failures="0" errors="0" time="6.157">
+    <testcase time="5.81799999999998" classname="arg_ds.foobar" name="setup"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.foobar" name="setup"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.foobar" name="setup"/>
+    <testcase time="0.0109999999999957" classname="arg_ds.foobar" name="NULL_connections"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.foobar" name="NULL_connections"/>
+    <testcase time="0.00800000000000978" classname="arg_ds.foobar" name="NULL_expr"/>
+    <testcase time="0.000999999999976353" classname="arg_ds.foobar" name="NULL_expr"/>
+    <testcase time="0.0470000000000255" classname="arg_ds.foobar" name="non_existent_aggregate_foobarDS"/>
+    <testcase time="0.00199999999998113" classname="arg_ds.foobar" name="non_existent_aggregate_foobarDS"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.foobar" name="non_existent_aggregate_foobarDS"/>
+    <testcase time="0.00300000000001432" classname="arg_ds.foobar" name="non_existent_aggregate_foobarDS"/>
+    <testcase time="0.00199999999998113" classname="arg_ds.foobar" name="non_existent_aggregate_foobarDS"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.foobar" name="non_existent_aggregate_foobarDS"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.foobar" name="non_existent_aggregate_foobarDS"/>
+    <testcase time="0.0029999999999859" classname="arg_ds.foobar" name="non_existent_aggregate_foobarDS"/>
+    <testcase time="0.00900000000001455" classname="arg_ds.foobar" name="NULL_connections"/>
+    <testcase time="0.00199999999998113" classname="arg_ds.foobar" name="NULL_connections"/>
+    <testcase time="0.007000000000005" classname="arg_ds.foobar" name="NULL_value"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.foobar" name="NULL_value"/>
+    <testcase time="0.0430000000000064" classname="arg_ds.foobar" name="non_existent_assign_foobarDS"/>
+    <testcase time="0.00199999999998113" classname="arg_ds.foobar" name="non_existent_assign_foobarDS"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.foobar" name="non_existent_assign_foobarDS"/>
+    <testcase time="0.00300000000001432" classname="arg_ds.foobar" name="non_existent_assign_foobarDS"/>
+    <testcase time="0.000999999999976353" classname="arg_ds.foobar" name="non_existent_assign_foobarDS"/>
+    <testcase time="0.00300000000001432" classname="arg_ds.foobar" name="non_existent_assign_foobarDS"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.foobar" name="non_existent_assign_foobarDS"/>
+    <testcase time="0.0029999999999859" classname="arg_ds.foobar" name="non_existent_assign_foobarDS"/>
+    <testcase time="0.173000000000002" classname="arg_ds.foobar" name="shutdown"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.foobar" name="shutdown"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.foobar" name="shutdown"/>
+  </testsuite>
+  <testsuite name="arg-ds.gamlss" timestamp="2026-03-17T15:56:16Z" hostname="runnervm46oaq" tests="3" skipped="0" failures="0" errors="0" time="5.56">
+    <testcase time="5.54999999999998" classname="arg_ds.gamlss" name="gamlss_errors"/>
+    <testcase time="0.00499999999999545" classname="arg_ds.gamlss" name="gamlss_errors"/>
+    <testcase time="0.00499999999999545" classname="arg_ds.gamlss" name="gamlss_errors"/>
+  </testsuite>
+  <testsuite name="arg-ds.glm" timestamp="2026-03-17T15:56:21Z" hostname="runnervm46oaq" tests="2" skipped="0" failures="0" errors="0" time="5.508">
+    <testcase time="5.50300000000001" classname="arg_ds.glm" name="glm_errors"/>
+    <testcase time="0.00499999999999545" classname="arg_ds.glm" name="glm_errors"/>
+  </testsuite>
+  <testsuite name="arg-ds.glmerSLMA" timestamp="2026-03-17T15:56:27Z" hostname="runnervm46oaq" tests="19" skipped="0" failures="0" errors="0" time="7.144">
+    <testcase time="5.81800000000001" classname="arg_ds.glmerSLMA" name="setup"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.glmerSLMA" name="setup"/>
+    <testcase time="0.000999999999976353" classname="arg_ds.glmerSLMA" name="setup"/>
+    <testcase time="0.00800000000000978" classname="arg_ds.glmerSLMA" name="simple_glmerSLMA_tesing_mis_use_of_arguments"/>
+    <testcase time="0.49199999999999" classname="arg_ds.glmerSLMA" name="simple_glmerSLMA_tesing_mis_use_of_arguments"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.glmerSLMA" name="simple_glmerSLMA_tesing_mis_use_of_arguments"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.glmerSLMA" name="simple_glmerSLMA_tesing_mis_use_of_arguments"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.glmerSLMA" name="simple_glmerSLMA_tesing_mis_use_of_arguments"/>
+    <testcase time="0.00199999999998113" classname="arg_ds.glmerSLMA" name="simple_glmerSLMA_tesing_mis_use_of_arguments"/>
+    <testcase time="0.171000000000021" classname="arg_ds.glmerSLMA" name="simple_glmerSLMA_tesing_mis_use_of_arguments"/>
+    <testcase time="0.460999999999984" classname="arg_ds.glmerSLMA" name="simple_glmerSLMA_tesing_mis_use_of_arguments"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.glmerSLMA" name="simple_glmerSLMA_tesing_mis_use_of_arguments"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.glmerSLMA" name="simple_glmerSLMA_tesing_mis_use_of_arguments"/>
+    <testcase time="0.00199999999998113" classname="arg_ds.glmerSLMA" name="simple_glmerSLMA_tesing_mis_use_of_arguments"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.glmerSLMA" name="simple_glmerSLMA_tesing_mis_use_of_arguments"/>
+    <testcase time="0.00499999999999545" classname="arg_ds.glmerSLMA" name="simple_glmerSLMA_tesing_mis_use_of_arguments"/>
+    <testcase time="0.173000000000002" classname="arg_ds.glmerSLMA" name="setup"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.glmerSLMA" name="setup"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.glmerSLMA" name="setup"/>
+  </testsuite>
+  <testsuite name="arg-ds.glmPredict" timestamp="2026-03-17T15:56:34Z" hostname="runnervm46oaq" tests="18" skipped="0" failures="0" errors="0" time="8.721">
+    <testcase time="5.56399999999999" classname="arg_ds.glmPredict" name="glmPredict_errors"/>
+    <testcase time="0.173000000000002" classname="arg_ds.glmPredict" name="glmPredict_errors"/>
+    <testcase time="1.036" classname="arg_ds.glmPredict" name="glmPredict_errors"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.glmPredict" name="glmPredict_errors"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.glmPredict" name="glmPredict_errors"/>
+    <testcase time="0.00199999999998113" classname="arg_ds.glmPredict" name="glmPredict_errors"/>
+    <testcase time="0.411000000000001" classname="arg_ds.glmPredict" name="glmPredict_errors"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.glmPredict" name="glmPredict_errors"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.glmPredict" name="glmPredict_errors"/>
+    <testcase time="0.00199999999998113" classname="arg_ds.glmPredict" name="glmPredict_errors"/>
+    <testcase time="0.173000000000002" classname="arg_ds.glmPredict" name="glmPredict_errors"/>
+    <testcase time="0.171000000000021" classname="arg_ds.glmPredict" name="glmPredict_errors"/>
+    <testcase time="0.500999999999976" classname="arg_ds.glmPredict" name="glmPredict_errors"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.glmPredict" name="glmPredict_errors"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.glmPredict" name="glmPredict_errors"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.glmPredict" name="glmPredict_errors"/>
+    <testcase time="0.502999999999986" classname="arg_ds.glmPredict" name="glmPredict_errors"/>
+    <testcase time="0.174000000000007" classname="arg_ds.glmPredict" name="glmPredict_errors"/>
+  </testsuite>
+  <testsuite name="arg-ds.glmSLMA" timestamp="2026-03-17T15:56:42Z" hostname="runnervm46oaq" tests="6" skipped="0" failures="0" errors="0" time="5.939">
+    <testcase time="5.60599999999999" classname="arg_ds.glmSLMA" name="glmSLMA_errors"/>
+    <testcase time="0.328000000000003" classname="arg_ds.glmSLMA" name="glmSLMA_errors"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.glmSLMA" name="glmSLMA_errors"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.glmSLMA" name="glmSLMA_errors"/>
+    <testcase time="0.00199999999998113" classname="arg_ds.glmSLMA" name="glmSLMA_errors"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.glmSLMA" name="glmSLMA_errors"/>
+  </testsuite>
+  <testsuite name="arg-ds.isNA" timestamp="2026-03-17T15:56:48Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.558">
+    <testcase time="5.55799999999999" classname="arg_ds.isNA" name="isNA_errors"/>
+  </testsuite>
+  <testsuite name="arg-ds.isValid" timestamp="2026-03-17T15:56:54Z" hostname="runnervm46oaq" tests="2" skipped="0" failures="0" errors="0" time="5.651">
+    <testcase time="5.518" classname="arg_ds.isValid" name="isValid_errors"/>
+    <testcase time="0.13300000000001" classname="arg_ds.isValid" name="isValid_errors"/>
+  </testsuite>
+  <testsuite name="arg-ds.kurtosis" timestamp="2026-03-17T15:57:00Z" hostname="runnervm46oaq" tests="10" skipped="0" failures="0" errors="0" time="5.883">
+    <testcase time="5.685" classname="arg_ds.kurtosis" name="setup"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.kurtosis" name="setup"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.kurtosis" name="setup"/>
+    <testcase time="0.00799999999998136" classname="arg_ds.kurtosis" name="kurtosis_erros"/>
+    <testcase time="0.00499999999999545" classname="arg_ds.kurtosis" name="kurtosis_erros"/>
+    <testcase time="0.0040000000000191" classname="arg_ds.kurtosis" name="kurtosis_erros"/>
+    <testcase time="0.00499999999999545" classname="arg_ds.kurtosis" name="kurtosis_erros"/>
+    <testcase time="0.170999999999992" classname="arg_ds.kurtosis" name="shutdown"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.kurtosis" name="shutdown"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.kurtosis" name="shutdown"/>
+  </testsuite>
+  <testsuite name="arg-ds.length" timestamp="2026-03-17T15:57:05Z" hostname="runnervm46oaq" tests="5" skipped="0" failures="0" errors="0" time="6.757">
+    <testcase time="6.34399999999999" classname="arg_ds.length" name="length_erros"/>
+    <testcase time="0.00499999999999545" classname="arg_ds.length" name="length_erros"/>
+    <testcase time="0.00499999999999545" classname="arg_ds.length" name="length_erros"/>
+    <testcase time="0.200999999999993" classname="arg_ds.length" name="length_erros"/>
+    <testcase time="0.201999999999998" classname="arg_ds.length" name="length_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.levels" timestamp="2026-03-17T15:57:12Z" hostname="runnervm46oaq" tests="2" skipped="0" failures="0" errors="0" time="5.812">
+    <testcase time="5.64000000000001" classname="arg_ds.levels" name="simple_levels"/>
+    <testcase time="0.171999999999997" classname="arg_ds.levels" name="simple_levels"/>
+  </testsuite>
+  <testsuite name="arg-ds.lexis" timestamp="2026-03-17T15:57:18Z" hostname="runnervm46oaq" tests="7" skipped="0" failures="0" errors="0" time="5.662">
+    <testcase time="5.631" classname="arg_ds.lexis" name="lexis_erros"/>
+    <testcase time="0.007000000000005" classname="arg_ds.lexis" name="simple_lexis"/>
+    <testcase time="0.00499999999999545" classname="arg_ds.lexis" name="simple_lexis"/>
+    <testcase time="0.00499999999999545" classname="arg_ds.lexis" name="simple_lexis"/>
+    <testcase time="0.00499999999999545" classname="arg_ds.lexis" name="simple_lexis"/>
+    <testcase time="0.00499999999999545" classname="arg_ds.lexis" name="simple_lexis"/>
+    <testcase time="0.0040000000000191" classname="arg_ds.lexis" name="simple_lexis"/>
+  </testsuite>
+  <testsuite name="arg-ds.list" timestamp="2026-03-17T15:57:24Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.6">
+    <testcase time="5.59999999999999" classname="arg_ds.list" name="simple_ds.list_errors"/>
+  </testsuite>
+  <testsuite name="arg-ds.lmerSLMA" timestamp="2026-03-17T15:57:29Z" hostname="runnervm46oaq" tests="14" skipped="0" failures="0" errors="0" time="7.075">
+    <testcase time="5.827" classname="arg_ds.lmerSLMA" name="setup"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.lmerSLMA" name="setup"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.lmerSLMA" name="setup"/>
+    <testcase time="0.423999999999978" classname="arg_ds.lmerSLMA" name="simple_lmerSLMA_tesing_mis_use_of_arguments"/>
+    <testcase time="0.498000000000019" classname="arg_ds.lmerSLMA" name="simple_lmerSLMA_tesing_mis_use_of_arguments"/>
+    <testcase time="0.00199999999998113" classname="arg_ds.lmerSLMA" name="simple_lmerSLMA_tesing_mis_use_of_arguments"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.lmerSLMA" name="simple_lmerSLMA_tesing_mis_use_of_arguments"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.lmerSLMA" name="simple_lmerSLMA_tesing_mis_use_of_arguments"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.lmerSLMA" name="simple_lmerSLMA_tesing_mis_use_of_arguments"/>
+    <testcase time="0.168999999999983" classname="arg_ds.lmerSLMA" name="simple_lmerSLMA_tesing_mis_use_of_arguments"/>
+    <testcase time="0.00600000000000023" classname="arg_ds.lmerSLMA" name="simple_lmerSLMA_tesing_mis_use_of_arguments"/>
+    <testcase time="0.13900000000001" classname="arg_ds.lmerSLMA" name="shutdown"/>
+    <testcase time="0.00100000000000477" classname="arg_ds.lmerSLMA" name="shutdown"/>
+    <testcase time="0.00199999999998113" classname="arg_ds.lmerSLMA" name="shutdown"/>
+  </testsuite>
+  <testsuite name="arg-ds.log" timestamp="2026-03-17T15:57:36Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.544">
+    <testcase time="5.54400000000001" classname="arg_ds.log" name="log_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.look" timestamp="2026-03-17T15:57:42Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.712">
+    <testcase time="5.71200000000002" classname="arg_ds.look" name="look_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.ls" timestamp="2026-03-17T15:57:48Z" hostname="runnervm46oaq" tests="12" skipped="0" failures="0" errors="0" time="5.97">
+    <testcase time="5.78399999999999" classname="arg_ds.ls" name="setup"/>
+    <testcase time="0.000999999999976353" classname="arg_ds.ls" name="setup"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.ls" name="setup"/>
+    <testcase time="0.0040000000000191" classname="arg_ds.ls" name="containing_escape_sequence"/>
+    <testcase time="0.000999999999976353" classname="arg_ds.ls" name="containing_escape_sequence"/>
+    <testcase time="0.0010000000000332" classname="arg_ds.ls" name="containing_escape_sequence"/>
+    <testcase time="0.00199999999995271" classname="arg_ds.ls" name="containing_escape_sequence"/>
+    <testcase time="0.0010000000000332" classname="arg_ds.ls" name="containing_escape_sequence"/>
+    <testcase time="0.000999999999976353" classname="arg_ds.ls" name="containing_escape_sequence"/>
+    <testcase time="0.170000000000016" classname="arg_ds.ls" name="shutdown"/>
+    <testcase time="0.000999999999976353" classname="arg_ds.ls" name="shutdown"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.ls" name="shutdown"/>
+  </testsuite>
+  <testsuite name="arg-ds.make" timestamp="2026-03-17T15:57:54Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.543">
+    <testcase time="5.54300000000001" classname="arg_ds.make" name="make_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.matrix" timestamp="2026-03-17T15:57:59Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.508">
+    <testcase time="5.50799999999998" classname="arg_ds.matrix" name="matrix_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.matrixDet" timestamp="2026-03-17T15:58:05Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.609">
+    <testcase time="5.60900000000004" classname="arg_ds.matrixDet" name="matrixDet_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.matrixDet.report" timestamp="2026-03-17T15:58:10Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.595">
+    <testcase time="5.59499999999997" classname="arg_ds.matrixDet.report" name="ds.matixDet.report_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.matrixDiag" timestamp="2026-03-17T15:58:16Z" hostname="runnervm46oaq" tests="2" skipped="0" failures="0" errors="0" time="5.563">
+    <testcase time="5.56100000000004" classname="arg_ds.matrixDiag" name="matrixDiag_erros"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.matrixDiag" name="matrixDiag_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.matrixDimnames" timestamp="2026-03-17T15:58:21Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.504">
+    <testcase time="5.50399999999996" classname="arg_ds.matrixDimnames" name="matrixDimnames_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.matrixInvert" timestamp="2026-03-17T15:58:27Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.546">
+    <testcase time="5.54599999999999" classname="arg_ds.matrixInvert" name="matrixInvert_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.matrixMult" timestamp="2026-03-17T15:58:32Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.637">
+    <testcase time="5.637" classname="arg_ds.matrixMult" name="matrixMult_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.matrixTranspose" timestamp="2026-03-17T15:58:38Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.593">
+    <testcase time="5.59300000000002" classname="arg_ds.matrixTranspose" name="matrixTranspose_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.mean" timestamp="2026-03-17T15:58:44Z" hostname="runnervm46oaq" tests="3" skipped="0" failures="0" errors="0" time="6.482">
+    <testcase time="6.27100000000002" classname="arg_ds.mean" name="mean_erros"/>
+    <testcase time="0.00499999999999545" classname="arg_ds.mean" name="mean_erros"/>
+    <testcase time="0.206000000000017" classname="arg_ds.mean" name="mean_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.meanByClass" timestamp="2026-03-17T15:58:50Z" hostname="runnervm46oaq" tests="4" skipped="0" failures="0" errors="0" time="8.768">
+    <testcase time="8.01299999999998" classname="arg_ds.meanByClass" name="meanByClass_erros"/>
+    <testcase time="0.36099999999999" classname="arg_ds.meanByClass" name="meanByClass_erros"/>
+    <testcase time="0.388000000000034" classname="arg_ds.meanByClass" name="meanByClass_erros"/>
+    <testcase time="0.00599999999997181" classname="arg_ds.meanByClass" name="meanByClass_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.meanSdGp" timestamp="2026-03-17T15:58:59Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.464">
+    <testcase time="5.464" classname="arg_ds.meanSdGp" name="meanSdGp_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.merge" timestamp="2026-03-17T15:59:04Z" hostname="runnervm46oaq" tests="5" skipped="0" failures="0" errors="0" time="6.601">
+    <testcase time="5.59899999999999" classname="arg_ds.merge" name="merge_erros"/>
+    <testcase time="0.00499999999999545" classname="arg_ds.merge" name="merge_erros"/>
+    <testcase time="0.331000000000017" classname="arg_ds.merge" name="merge_erros"/>
+    <testcase time="0.333000000000027" classname="arg_ds.merge" name="merge_erros"/>
+    <testcase time="0.33299999999997" classname="arg_ds.merge" name="merge_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.message" timestamp="2026-03-17T15:59:11Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.562">
+    <testcase time="5.56200000000001" classname="arg_ds.message" name="request_message_for_NULL"/>
+  </testsuite>
+  <testsuite name="arg-ds.metadata" timestamp="2026-03-17T15:59:17Z" hostname="runnervm46oaq" tests="8" skipped="0" failures="0" errors="0" time="6.215">
+    <testcase time="5.73899999999998" classname="arg_ds.metadata" name="setup"/>
+    <testcase time="0.0010000000000332" classname="arg_ds.metadata" name="setup"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.metadata" name="setup"/>
+    <testcase time="0.170999999999992" classname="arg_ds.metadata" name="missing_variable"/>
+    <testcase time="0.130999999999972" classname="arg_ds.metadata" name="missing_column"/>
+    <testcase time="0.168000000000006" classname="arg_ds.metadata" name="shutdown"/>
+    <testcase time="0.000999999999976353" classname="arg_ds.metadata" name="shutdown"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.metadata" name="shutdown"/>
+  </testsuite>
+  <testsuite name="arg-ds.mice" timestamp="2026-03-17T15:59:23Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.545">
+    <testcase time="5.54500000000002" classname="arg_ds.mice" name="mice_errors"/>
+  </testsuite>
+  <testsuite name="arg-ds.names" timestamp="2026-03-17T15:59:28Z" hostname="runnervm46oaq" tests="7" skipped="0" failures="0" errors="0" time="6.087">
+    <testcase time="5.59800000000001" classname="arg_ds.names" name="simple_ds.names_errors"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.names" name="simple_ds.names_errors"/>
+    <testcase time="0.481999999999971" classname="arg_ds.names" name="simple_ds.names_errors"/>
+    <testcase time="0.0010000000000332" classname="arg_ds.names" name="simple_ds.names_errors"/>
+    <testcase time="0.00199999999995271" classname="arg_ds.names" name="simple_ds.names_errors"/>
+    <testcase time="0.0010000000000332" classname="arg_ds.names" name="simple_ds.names_errors"/>
+    <testcase time="0.000999999999976353" classname="arg_ds.names" name="simple_ds.names_errors"/>
+  </testsuite>
+  <testsuite name="arg-ds.ns" timestamp="2026-03-17T15:59:34Z" hostname="runnervm46oaq" tests="8" skipped="0" failures="0" errors="0" time="5.869">
+    <testcase time="5.68299999999999" classname="arg_ds.ns" name="setup"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.ns" name="setup"/>
+    <testcase time="0.0010000000000332" classname="arg_ds.ns" name="setup"/>
+    <testcase time="0.007000000000005" classname="arg_ds.ns" name="ns_errors"/>
+    <testcase time="0.00499999999999545" classname="arg_ds.ns" name="ns_errors"/>
+    <testcase time="0.16799999999995" classname="arg_ds.ns" name="shutdown"/>
+    <testcase time="0.0010000000000332" classname="arg_ds.ns" name="shutdown"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.ns" name="shutdown"/>
+  </testsuite>
+  <testsuite name="arg-ds.numNA" timestamp="2026-03-17T15:59:40Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.498">
+    <testcase time="5.49799999999999" classname="arg_ds.numNA" name="simple_ds.numNA_errors"/>
+  </testsuite>
+  <testsuite name="arg-ds.qlspline" timestamp="2026-03-17T15:59:46Z" hostname="runnervm46oaq" tests="10" skipped="0" failures="0" errors="0" time="6.329">
+    <testcase time="5.803" classname="arg_ds.qlspline" name="setup"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.qlspline" name="setup"/>
+    <testcase time="0.000999999999976353" classname="arg_ds.qlspline" name="setup"/>
+    <testcase time="0.007000000000005" classname="arg_ds.qlspline" name="qlspline_errors"/>
+    <testcase time="0.00499999999999545" classname="arg_ds.qlspline" name="qlspline_errors"/>
+    <testcase time="0.170000000000016" classname="arg_ds.qlspline" name="qlspline_errors"/>
+    <testcase time="0.170000000000016" classname="arg_ds.qlspline" name="qlspline_errors"/>
+    <testcase time="0.168000000000006" classname="arg_ds.qlspline" name="shutdown"/>
+    <testcase time="0.00199999999995271" classname="arg_ds.qlspline" name="shutdown"/>
+    <testcase time="0.0010000000000332" classname="arg_ds.qlspline" name="shutdown"/>
+  </testsuite>
+  <testsuite name="arg-ds.quantileMean" timestamp="2026-03-17T15:59:52Z" hostname="runnervm46oaq" tests="3" skipped="0" failures="0" errors="0" time="6.576">
+    <testcase time="6.36799999999999" classname="arg_ds.quantileMean" name="quantileMean_erros"/>
+    <testcase time="0.00499999999999545" classname="arg_ds.quantileMean" name="quantileMean_erros"/>
+    <testcase time="0.202999999999975" classname="arg_ds.quantileMean" name="quantileMean_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.ranksSecure" timestamp="2026-03-17T15:59:59Z" hostname="runnervm46oaq" tests="31" skipped="0" failures="0" errors="0" time="16.839">
+    <testcase time="6.15200000000004" classname="arg_ds.ranksSecure" name="setup"/>
+    <testcase time="0.000999999999976353" classname="arg_ds.ranksSecure" name="setup"/>
+    <testcase time="0.0010000000000332" classname="arg_ds.ranksSecure" name="setup"/>
+    <testcase time="0.488999999999976" classname="arg_ds.ranksSecure" name="missing_variable"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.ranksSecure" name="missing_variable"/>
+    <testcase time="0.0010000000000332" classname="arg_ds.ranksSecure" name="missing_variable"/>
+    <testcase time="0.00199999999995271" classname="arg_ds.ranksSecure" name="missing_variable"/>
+    <testcase time="0.0010000000000332" classname="arg_ds.ranksSecure" name="missing_variable"/>
+    <testcase time="0.634999999999991" classname="arg_ds.ranksSecure" name="NULL_variable"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.ranksSecure" name="NULL_variable"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.ranksSecure" name="NULL_variable"/>
+    <testcase time="0.000999999999976353" classname="arg_ds.ranksSecure" name="NULL_variable"/>
+    <testcase time="1.50400000000002" classname="arg_ds.ranksSecure" name="NULL_variable"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.ranksSecure" name="NULL_variable"/>
+    <testcase time="0.000999999999976353" classname="arg_ds.ranksSecure" name="NULL_variable"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.ranksSecure" name="NULL_variable"/>
+    <testcase time="0.000999999999976353" classname="arg_ds.ranksSecure" name="NULL_variable"/>
+    <testcase time="0.485000000000014" classname="arg_ds.ranksSecure" name="_text_variable"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.ranksSecure" name="_text_variable"/>
+    <testcase time="0.000999999999976353" classname="arg_ds.ranksSecure" name="_text_variable"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.ranksSecure" name="_text_variable"/>
+    <testcase time="0.000999999999976353" classname="arg_ds.ranksSecure" name="_text_variable"/>
+    <testcase time="5.94400000000002" classname="arg_ds.ranksSecure" name="_logical_variable"/>
+    <testcase time="1.428" classname="arg_ds.ranksSecure" name="_integer_factor_variable"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.ranksSecure" name="_integer_factor_variable"/>
+    <testcase time="0.000999999999976353" classname="arg_ds.ranksSecure" name="_integer_factor_variable"/>
+    <testcase time="0.0010000000000332" classname="arg_ds.ranksSecure" name="_integer_factor_variable"/>
+    <testcase time="0.0010000000000332" classname="arg_ds.ranksSecure" name="_integer_factor_variable"/>
+    <testcase time="0.168999999999983" classname="arg_ds.ranksSecure" name="setup"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.ranksSecure" name="setup"/>
+    <testcase time="0.000999999999976353" classname="arg_ds.ranksSecure" name="setup"/>
+  </testsuite>
+  <testsuite name="arg-ds.rbind" timestamp="2026-03-17T16:00:16Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.501">
+    <testcase time="5.50100000000003" classname="arg_ds.rbind" name="rbind_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.rBinom" timestamp="2026-03-17T16:00:21Z" hostname="runnervm46oaq" tests="2" skipped="0" failures="0" errors="0" time="5.552">
+    <testcase time="5.55099999999999" classname="arg_ds.rBinom" name="rBinom_erros"/>
+    <testcase time="0.000999999999976353" classname="arg_ds.rBinom" name="rBinom_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.recodeLevels" timestamp="2026-03-17T16:00:27Z" hostname="runnervm46oaq" tests="4" skipped="0" failures="0" errors="0" time="6.323">
+    <testcase time="5.63900000000001" classname="arg_ds.recodeLevels" name="recodeLevels_erros"/>
+    <testcase time="0.00499999999999545" classname="arg_ds.recodeLevels" name="recodeLevels_erros"/>
+    <testcase time="0.196000000000026" classname="arg_ds.recodeLevels" name="recodeLevels_erros"/>
+    <testcase time="0.483000000000004" classname="arg_ds.recodeLevels" name="recodeLevels_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.recodeValues" timestamp="2026-03-17T16:00:33Z" hostname="runnervm46oaq" tests="7" skipped="0" failures="0" errors="0" time="6.564">
+    <testcase time="5.57600000000002" classname="arg_ds.recodeValues" name="recodeValues_erros"/>
+    <testcase time="0.173999999999978" classname="arg_ds.recodeValues" name="recodeValues_erros"/>
+    <testcase time="0.168000000000006" classname="arg_ds.recodeValues" name="recodeValues_erros"/>
+    <testcase time="0.130999999999972" classname="arg_ds.recodeValues" name="recodeValues_erros"/>
+    <testcase time="0.173000000000002" classname="arg_ds.recodeValues" name="recodeValues_erros"/>
+    <testcase time="0.172000000000025" classname="arg_ds.recodeValues" name="recodeValues_erros"/>
+    <testcase time="0.170000000000016" classname="arg_ds.recodeValues" name="recodeValues_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.rep" timestamp="2026-03-17T16:00:40Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.576">
+    <testcase time="5.57599999999996" classname="arg_ds.rep" name="ds.rep_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.replaceNA" timestamp="2026-03-17T16:00:45Z" hostname="runnervm46oaq" tests="2" skipped="0" failures="0" errors="0" time="5.668">
+    <testcase time="5.5" classname="arg_ds.replaceNA" name="simple_ds.replaceNA_errors"/>
+    <testcase time="0.168000000000006" classname="arg_ds.replaceNA" name="simple_ds.replaceNA_errors"/>
+  </testsuite>
+  <testsuite name="arg-ds.reShape" timestamp="2026-03-17T16:00:51Z" hostname="runnervm46oaq" tests="4" skipped="0" failures="0" errors="0" time="5.654">
+    <testcase time="5.63999999999999" classname="arg_ds.reShape" name="reShape_erros"/>
+    <testcase time="0.0050000000000523" classname="arg_ds.reShape" name="reShape_erros"/>
+    <testcase time="0.00399999999996226" classname="arg_ds.reShape" name="reShape_erros"/>
+    <testcase time="0.00499999999999545" classname="arg_ds.reShape" name="reShape_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.rm" timestamp="2026-03-17T16:00:56Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.588">
+    <testcase time="5.58800000000002" classname="arg_ds.rm" name="ds.rm_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.rNorm" timestamp="2026-03-17T16:01:02Z" hostname="runnervm46oaq" tests="2" skipped="0" failures="0" errors="0" time="5.497">
+    <testcase time="5.495" classname="arg_ds.rNorm" name="rNorm_erros"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.rNorm" name="rNorm_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.rowColCalc" timestamp="2026-03-17T16:01:07Z" hostname="runnervm46oaq" tests="3" skipped="0" failures="0" errors="0" time="7.338">
+    <testcase time="5.601" classname="arg_ds.rowColCalc" name="rowColCalc_errors"/>
+    <testcase time="0.856999999999971" classname="arg_ds.rowColCalc" name="rowColCalc_errors"/>
+    <testcase time="0.879999999999995" classname="arg_ds.rowColCalc" name="rowColCalc_errors"/>
+  </testsuite>
+  <testsuite name="arg-ds.rPois" timestamp="2026-03-17T16:01:15Z" hostname="runnervm46oaq" tests="2" skipped="0" failures="0" errors="0" time="5.556">
+    <testcase time="5.55400000000003" classname="arg_ds.rPois" name="rPois_erros"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.rPois" name="rPois_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.rUnif" timestamp="2026-03-17T16:01:20Z" hostname="runnervm46oaq" tests="2" skipped="0" failures="0" errors="0" time="5.663">
+    <testcase time="5.66199999999998" classname="arg_ds.rUnif" name="rUnif_erros"/>
+    <testcase time="0.0010000000000332" classname="arg_ds.rUnif" name="rUnif_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.sample" timestamp="2026-03-17T16:01:26Z" hostname="runnervm46oaq" tests="3" skipped="0" failures="0" errors="0" time="5.519">
+    <testcase time="5.51599999999996" classname="arg_ds.sample" name="cov_erros"/>
+    <testcase time="0.0010000000000332" classname="arg_ds.sample" name="cov_erros"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.sample" name="cov_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.seq" timestamp="2026-03-17T16:01:32Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.67">
+    <testcase time="5.66999999999996" classname="arg_ds.seq" name="seq_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.setSeed" timestamp="2026-03-17T16:01:37Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.534">
+    <testcase time="5.53400000000005" classname="arg_ds.setSeed" name="setSeed_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.skewness" timestamp="2026-03-17T16:01:43Z" hostname="runnervm46oaq" tests="10" skipped="0" failures="0" errors="0" time="5.931">
+    <testcase time="5.73599999999999" classname="arg_ds.skewness" name="setup"/>
+    <testcase time="0.000999999999976353" classname="arg_ds.skewness" name="setup"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.skewness" name="setup"/>
+    <testcase time="0.007000000000005" classname="arg_ds.skewness" name="skewness_erros"/>
+    <testcase time="0.00499999999999545" classname="arg_ds.skewness" name="skewness_erros"/>
+    <testcase time="0.00499999999999545" classname="arg_ds.skewness" name="skewness_erros"/>
+    <testcase time="0.00499999999999545" classname="arg_ds.skewness" name="skewness_erros"/>
+    <testcase time="0.16700000000003" classname="arg_ds.skewness" name="shutdown"/>
+    <testcase time="0.000999999999976353" classname="arg_ds.skewness" name="shutdown"/>
+    <testcase time="0.00200000000000955" classname="arg_ds.skewness" name="shutdown"/>
+  </testsuite>
+  <testsuite name="arg-ds.subset" timestamp="2026-03-17T16:01:49Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.633">
+    <testcase time="5.63299999999998" classname="arg_ds.subset" name="subset_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.subsetByClass" timestamp="2026-03-17T16:01:54Z" hostname="runnervm46oaq" tests="2" skipped="0" failures="0" errors="0" time="5.855">
+    <testcase time="5.65500000000003" classname="arg_ds.subsetByClass" name="subsetByClass_erros"/>
+    <testcase time="0.199999999999989" classname="arg_ds.subsetByClass" name="subsetByClass_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.summary" timestamp="2026-03-17T16:02:00Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.622">
+    <testcase time="5.62199999999996" classname="arg_ds.summary" name="summary_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.table" timestamp="2026-03-17T16:02:06Z" hostname="runnervm46oaq" tests="11" skipped="0" failures="0" errors="0" time="7.173">
+    <testcase time="5.51300000000003" classname="arg_ds.table" name="table_rvar_has_value"/>
+    <testcase time="0.177000000000021" classname="arg_ds.table" name="table_rvar_is_not_a_variable"/>
+    <testcase time="0.00199999999995271" classname="arg_ds.table" name="table_rvar_is_not_a_variable"/>
+    <testcase time="0.168000000000006" classname="arg_ds.table" name="table_cvar_has_value"/>
+    <testcase time="0.295000000000073" classname="arg_ds.table" name="table_cvar_is_not_a_variable"/>
+    <testcase time="0.00199999999995271" classname="arg_ds.table" name="table_cvar_is_not_a_variable"/>
+    <testcase time="0.168999999999983" classname="arg_ds.table" name="table_stvar_has_value"/>
+    <testcase time="0.500999999999976" classname="arg_ds.table" name="table_stvar_is_not_a_variable"/>
+    <testcase time="0.00100000000009004" classname="arg_ds.table" name="table_stvar_is_not_a_variable"/>
+    <testcase time="0.169999999999959" classname="arg_ds.table" name="table_useNA_has_value"/>
+    <testcase time="0.174999999999955" classname="arg_ds.table" name="table_force.nfilter_has_value"/>
+  </testsuite>
+  <testsuite name="arg-ds.table1D" timestamp="2026-03-17T16:02:13Z" hostname="runnervm46oaq" tests="2" skipped="0" failures="0" errors="0" time="5.962">
+    <testcase time="5.59199999999998" classname="arg_ds.table1D" name="table1D_erros"/>
+    <testcase time="0.370000000000005" classname="arg_ds.table1D" name="table1D_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.table2D" timestamp="2026-03-17T16:02:19Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.529">
+    <testcase time="5.529" classname="arg_ds.table2D" name="table2D_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.tapply.assign" timestamp="2026-03-17T16:02:24Z" hostname="runnervm46oaq" tests="8" skipped="0" failures="0" errors="0" time="6.011">
+    <testcase time="5.55200000000002" classname="arg_ds.tapply.assign" name="tapply_erros"/>
+    <testcase time="0.000999999999976353" classname="arg_ds.tapply.assign" name="tapply_erros"/>
+    <testcase time="0.164000000000101" classname="arg_ds.tapply.assign" name="tapply_erros"/>
+    <testcase time="0.00199999999995271" classname="arg_ds.tapply.assign" name="tapply_erros"/>
+    <testcase time="0.000999999999976353" classname="arg_ds.tapply.assign" name="tapply_erros"/>
+    <testcase time="0.00200000000006639" classname="arg_ds.tapply.assign" name="tapply_erros"/>
+    <testcase time="0.286999999999921" classname="arg_ds.tapply.assign" name="tapply_erros"/>
+    <testcase time="0.00200000000006639" classname="arg_ds.tapply.assign" name="tapply_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.tapply" timestamp="2026-03-17T16:02:30Z" hostname="runnervm46oaq" tests="8" skipped="0" failures="0" errors="0" time="6.02">
+    <testcase time="5.55999999999995" classname="arg_ds.tapply" name="tapply_erros"/>
+    <testcase time="0.000999999999976353" classname="arg_ds.tapply" name="tapply_erros"/>
+    <testcase time="0.164000000000101" classname="arg_ds.tapply" name="tapply_erros"/>
+    <testcase time="0.000999999999976353" classname="arg_ds.tapply" name="tapply_erros"/>
+    <testcase time="0.00199999999995271" classname="arg_ds.tapply" name="tapply_erros"/>
+    <testcase time="0.000999999999976353" classname="arg_ds.tapply" name="tapply_erros"/>
+    <testcase time="0.288999999999987" classname="arg_ds.tapply" name="tapply_erros"/>
+    <testcase time="0.00200000000006639" classname="arg_ds.tapply" name="tapply_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.testObjExists" timestamp="2026-03-17T16:02:37Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.653">
+    <testcase time="5.65300000000002" classname="arg_ds.testObjExists" name="testObjExists_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.unique" timestamp="2026-03-17T16:02:42Z" hostname="runnervm46oaq" tests="2" skipped="0" failures="0" errors="0" time="5.635">
+    <testcase time="5.62799999999993" classname="arg_ds.unique" name="simple_ds.unique_no_arguments"/>
+    <testcase time="0.00700000000006185" classname="arg_ds.unique" name="simple_ds.unique_NULL_arguments"/>
+  </testsuite>
+  <testsuite name="arg-ds.unList" timestamp="2026-03-17T16:02:48Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.414">
+    <testcase time="5.41399999999999" classname="arg_ds.unList" name="unList_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.var" timestamp="2026-03-17T16:02:53Z" hostname="runnervm46oaq" tests="2" skipped="0" failures="0" errors="0" time="6.7">
+    <testcase time="6.33600000000001" classname="arg_ds.var" name="var_erros"/>
+    <testcase time="0.363999999999919" classname="arg_ds.var" name="var_erros"/>
+  </testsuite>
+  <testsuite name="arg-ds.vectorCalc" timestamp="2026-03-17T16:03:00Z" hostname="runnervm46oaq" tests="1" skipped="0" failures="0" errors="0" time="5.6">
+    <testcase time="5.60000000000002" classname="arg_ds.vectorCalc" name="ds.vectorCalc_erros"/>
+  </testsuite>
+</testsuites>
