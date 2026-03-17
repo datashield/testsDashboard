@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: ../docs
+  render:
+    - index.qmd
+    - reports/*.qmd
+
+execute:
+  freeze: auto
+
+format:
+  html:
+    theme: cosmo
+    toc: false
+    self-contained: false
+    embed-resources: false
+    code-fold: false
+    smooth-scroll: true

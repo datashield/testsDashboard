@@ -1,0 +1,114 @@
+---
+title: "`r params$title`"
+params:
+  rds_path: NULL
+  title: NULL
+format:
+  html:
+    theme: cosmo
+    toc: false
+    self-contained: false
+---
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# ---- Safety check ----
+if (is.null(params$rds_path) || !file.exists(params$rds_path)) {
+  # stop("Parameter rds_path is missing or invalid")
+  return(0)
+}
+
+test_list <- readr::read_rds(params$rds_path)
+
+
+# ---- Coverage colouring ----
+coverage_colour <- function(x) {
+  if (is.na(x)) return("#eeeeee")
+  if (x < 60) return("#f8d7da")   # red-ish
+  if (x < 80) return("#fff3cd")   # yellow-ish
+  return("#d4edda")               # green-ish
+}
+
+# ---- Render all test classes ----
+output <- htmltools::tagList(
+  lapply(test_list, function(x) {
+
+    test_class <- x$test_class[1]
+
+    # ---- Overview row ----
+    x_overview <- x |>
+      dplyr::summarise(
+        fn_name = "OVERVIEW",
+        coverage = round(mean(as.numeric(file_coverage), na.rm = TRUE), 2),
+        test_url = "",
+        tests = sum(as.numeric(tests), na.rm = TRUE),
+        skipped = sum(as.numeric(skipped), na.rm = TRUE),
+        failures = sum(as.numeric(failures), na.rm = TRUE),
+        errors = sum(as.numeric(errors), na.rm = TRUE),
+        time = sum(as.numeric(time), na.rm = TRUE)
+      )
+    
+    # ---- Main table ----
+    x_tbl <- x |>
+      dplyr::rename(coverage = file_coverage) |>
+      dplyr::mutate(
+        coverage = as.numeric(coverage),
+        tests = as.numeric(tests),
+        skipped = as.numeric(skipped),
+        failures = as.numeric(failures),
+        errors = as.numeric(errors),
+        time = round(as.numeric(time), 4),
+        fn_name = ifelse(
+          is.na(script_url),
+          fn_name,
+          sprintf('<a href="%s" target="_blank">%s</a>', script_url, fn_name)
+        ),
+        test_url = ifelse(
+          is.na(test_url),
+          "",
+          sprintf('<a href="%s" target="_blank">View</a>', test_url)
+        )
+      ) |>
+      dplyr::select(-script_url, -test_class, -fn_name_sub) |>
+      dplyr::bind_rows(x_overview) |>
+      dplyr::rename(
+        Function = fn_name,
+        Coverage = coverage,
+        Test = test_url
+      )
+
+    htmltools::tagList(
+      htmltools::tags$h3(sprintf("Test type: %s", test_class)),
+      reactable::reactable(
+        x_tbl,
+        searchable = FALSE,
+        sortable = TRUE,
+        highlight = TRUE,
+        compact = FALSE,
+        bordered = TRUE,
+        striped = TRUE,
+        pagination = FALSE,
+        defaultColDef = reactable::colDef(align = "center"),
+        columns = list(
+          Function = reactable::colDef(html = TRUE, align = "left"),
+          Test = reactable::colDef(html = TRUE),
+          Coverage = reactable::colDef(
+            style = function(value) {
+              list(
+                background = coverage_colour(value),
+                fontWeight = "bold"
+              )
+            }
+          )
+        )
+      ),
+      htmltools::tags$br()
+    )
+  })
+)
+
+output
+```

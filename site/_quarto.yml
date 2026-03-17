@@ -1,0 +1,57 @@
+project:
+  type: website
+  output-dir: ../docs
+  render:
+    - index.qmd
+    - reports/*.qmd
+
+execute:
+  freeze: auto
+
+format:
+  html:
+    theme: cosmo
+    toc: false
+    self-contained: false
+    embed-resources: false
+    code-fold: false
+    smooth-scroll: true
+website:
+  title: 'DataSHIELD Test Reports'
+  sidebar:
+    logo: https://i0.wp.com/datashield.org/wp-content/uploads/2024/07/DS-logo-A4.png
+    style: docked
+    search: false
+    contents:
+      - section: "dsBase"
+        contents:
+          - section: "Release"
+            contents:
+              - text: "latest"
+                href: reports/dsBase-latest.qmd
+              - text: "6.3.5"
+                href: reports/dsBase-6.3.5.qmd
+              - text: "6.3.4"
+                href: reports/dsBase-6.3.4.qmd
+          - section: "Development"
+            contents:
+              - text: "7.0.0-dev"
+                href: reports/dsBase-7.0.0-dev.qmd
+              - text: "6.4.0-dev"
+                href: reports/dsBase-6.4.0-dev.qmd
+              - text: "6.3.6-dev"
+                href: reports/dsBase-6.3.6-dev.qmd
+      - section: "dsBaseClient"
+        contents:
+          - section: "Release"
+            contents:
+              - text: "latest"
+                href: reports/dsBaseClient-latest.qmd
+              - text: "6.3.5"
+                href: reports/dsBaseClient-6.3.5.qmd
+              - text: "6.3.4"
+                href: reports/dsBaseClient-6.3.4.qmd
+          - section: "Development"
+            contents:
+              - text: "6.3.6-dev"
+                href: reports/dsBaseClient-6.3.6-dev.qmd
