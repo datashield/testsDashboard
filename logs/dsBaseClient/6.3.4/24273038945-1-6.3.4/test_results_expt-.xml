@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="expt-ds.dataFrame" timestamp="2026-04-11T03:53:42Z" hostname="runnervm35a4x" tests="0" skipped="0" failures="0" errors="0" time="0"/>
+  <testsuite name="ds.dataFrame::expt::setup" timestamp="2026-04-11T03:53:42Z" hostname="runnervm35a4x" tests="0" skipped="0" failures="0" errors="0" time="0"/>
+  <testsuite name="ds.dataFrame::expt::one_column::single" timestamp="2026-04-11T03:53:42Z" hostname="runnervm35a4x" tests="24" skipped="0" failures="0" errors="0" time="13.271">
+    <testcase time="8.686" classname="ds.dataFrame_expt_one_column_single" name="numeric_data"/>
+    <testcase time="0.0229999999999997" classname="ds.dataFrame_expt_one_column_single" name="numeric_data"/>
+    <testcase time="0.00799999999999912" classname="ds.dataFrame_expt_one_column_single" name="numeric_data"/>
+    <testcase time="0.638" classname="ds.dataFrame_expt_one_column_single" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_one_column_single" name="numeric_data"/>
+    <testcase time="0.00200000000000067" classname="ds.dataFrame_expt_one_column_single" name="numeric_data"/>
+    <testcase time="0.606" classname="ds.dataFrame_expt_one_column_single" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_one_column_single" name="numeric_data"/>
+    <testcase time="0.00200000000000067" classname="ds.dataFrame_expt_one_column_single" name="numeric_data"/>
+    <testcase time="0.769" classname="ds.dataFrame_expt_one_column_single" name="numeric_data"/>
+    <testcase time="0.00199999999999889" classname="ds.dataFrame_expt_one_column_single" name="numeric_data"/>
+    <testcase time="0.00200000000000067" classname="ds.dataFrame_expt_one_column_single" name="numeric_data"/>
+    <testcase time="0.635" classname="ds.dataFrame_expt_one_column_single" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_one_column_single" name="numeric_data"/>
+    <testcase time="0.000999999999999446" classname="ds.dataFrame_expt_one_column_single" name="numeric_data"/>
+    <testcase time="0.634" classname="ds.dataFrame_expt_one_column_single" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_one_column_single" name="numeric_data"/>
+    <testcase time="0.000999999999999446" classname="ds.dataFrame_expt_one_column_single" name="numeric_data"/>
+    <testcase time="0.601000000000001" classname="ds.dataFrame_expt_one_column_single" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_one_column_single" name="numeric_data"/>
+    <testcase time="0.00199999999999889" classname="ds.dataFrame_expt_one_column_single" name="numeric_data"/>
+    <testcase time="0.639000000000001" classname="ds.dataFrame_expt_one_column_single" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_one_column_single" name="numeric_data"/>
+    <testcase time="0.00199999999999889" classname="ds.dataFrame_expt_one_column_single" name="numeric_data"/>
+  </testsuite>
+  <testsuite name="ds.dataFrame::expt::several_columns::single" timestamp="2026-04-11T03:53:55Z" hostname="runnervm35a4x" tests="12" skipped="0" failures="0" errors="0" time="4.567">
+    <testcase time="3.835" classname="ds.dataFrame_expt_several_columns_single" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_several_columns_single" name="numeric_data"/>
+    <testcase time="0.00200000000000244" classname="ds.dataFrame_expt_several_columns_single" name="numeric_data"/>
+    <testcase time="0.000999999999997669" classname="ds.dataFrame_expt_several_columns_single" name="numeric_data"/>
+    <testcase time="0.00200000000000244" classname="ds.dataFrame_expt_several_columns_single" name="numeric_data"/>
+    <testcase time="0.000999999999997669" classname="ds.dataFrame_expt_several_columns_single" name="numeric_data"/>
+    <testcase time="0.714000000000002" classname="ds.dataFrame_expt_several_columns_single" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_several_columns_single" name="numeric_data"/>
+    <testcase time="0.000999999999997669" classname="ds.dataFrame_expt_several_columns_single" name="numeric_data"/>
+    <testcase time="0.00200000000000244" classname="ds.dataFrame_expt_several_columns_single" name="numeric_data"/>
+    <testcase time="0.000999999999997669" classname="ds.dataFrame_expt_several_columns_single" name="numeric_data"/>
+    <testcase time="0.00200000000000244" classname="ds.dataFrame_expt_several_columns_single" name="numeric_data"/>
+  </testsuite>
+  <testsuite name="ds.dataFrame::expt::one_column::multiple" timestamp="2026-04-11T03:53:59Z" hostname="runnervm35a4x" tests="40" skipped="0" failures="0" errors="0" time="21.374">
+    <testcase time="9.268" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="0.00200000000000244" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="0.00199999999999889" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="1.713" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="0.00199999999999889" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="0.00100000000000122" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="1.688" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="0.00299999999999301" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="0.00200000000000244" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="0.00200000000000244" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="1.693" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="0.00200000000000244" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="0.00199999999999534" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="1.693" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="0.000999999999997669" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="1.761" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="0.00199999999999534" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="0.00100000000000477" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="1.71899999999999" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="0.00200000000000244" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="0.00200000000000244" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="1.761" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="0.00200000000000244" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+    <testcase time="0.00200000000000244" classname="ds.dataFrame_expt_one_column_multiple" name="numeric_data"/>
+  </testsuite>
+  <testsuite name="ds.dataFrame::expt::several_columns::single" timestamp="2026-04-11T03:54:21Z" hostname="runnervm35a4x" tests="16" skipped="0" failures="0" errors="0" time="11.807">
+    <testcase time="9.598" classname="ds.dataFrame_expt_several_columns_single" name="numeric_data"/>
+    <testcase time="0.00199999999999534" classname="ds.dataFrame_expt_several_columns_single" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_several_columns_single" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_several_columns_single" name="numeric_data"/>
+    <testcase time="0.00100000000000477" classname="ds.dataFrame_expt_several_columns_single" name="numeric_data"/>
+    <testcase time="0.000999999999997669" classname="ds.dataFrame_expt_several_columns_single" name="numeric_data"/>
+    <testcase time="0.00200000000000244" classname="ds.dataFrame_expt_several_columns_single" name="numeric_data"/>
+    <testcase time="0.000999999999997669" classname="ds.dataFrame_expt_several_columns_single" name="numeric_data"/>
+    <testcase time="2.182" classname="ds.dataFrame_expt_several_columns_single" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_several_columns_single" name="numeric_data"/>
+    <testcase time="0.00199999999999534" classname="ds.dataFrame_expt_several_columns_single" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_several_columns_single" name="numeric_data"/>
+    <testcase time="0.00100000000000477" classname="ds.dataFrame_expt_several_columns_single" name="numeric_data"/>
+    <testcase time="0.00199999999999534" classname="ds.dataFrame_expt_several_columns_single" name="numeric_data"/>
+    <testcase time="0.00100000000000477" classname="ds.dataFrame_expt_several_columns_single" name="numeric_data"/>
+    <testcase time="0.00199999999999534" classname="ds.dataFrame_expt_several_columns_single" name="numeric_data"/>
+  </testsuite>
+  <testsuite name="ds.dataFrame::expt::one_column_from_objects::single" timestamp="2026-04-11T03:54:33Z" hostname="runnervm35a4x" tests="16" skipped="0" failures="0" errors="0" time="8.189">
+    <testcase time="3.531" classname="ds.dataFrame_expt_one_column_from_objects_single" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_one_column_from_objects_single" name="numeric_data"/>
+    <testcase time="0.681000000000004" classname="ds.dataFrame_expt_one_column_from_objects_single" name="numeric_data"/>
+    <testcase time="0.00199999999999534" classname="ds.dataFrame_expt_one_column_from_objects_single" name="numeric_data"/>
+    <testcase time="0.685000000000002" classname="ds.dataFrame_expt_one_column_from_objects_single" name="numeric_data"/>
+    <testcase time="0.00200000000000244" classname="ds.dataFrame_expt_one_column_from_objects_single" name="numeric_data"/>
+    <testcase time="0.635999999999996" classname="ds.dataFrame_expt_one_column_from_objects_single" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_one_column_from_objects_single" name="numeric_data"/>
+    <testcase time="0.682000000000002" classname="ds.dataFrame_expt_one_column_from_objects_single" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_one_column_from_objects_single" name="numeric_data"/>
+    <testcase time="0.673999999999999" classname="ds.dataFrame_expt_one_column_from_objects_single" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_one_column_from_objects_single" name="numeric_data"/>
+    <testcase time="0.646999999999998" classname="ds.dataFrame_expt_one_column_from_objects_single" name="numeric_data"/>
+    <testcase time="0.00200000000000244" classname="ds.dataFrame_expt_one_column_from_objects_single" name="numeric_data"/>
+    <testcase time="0.633000000000003" classname="ds.dataFrame_expt_one_column_from_objects_single" name="numeric_data"/>
+    <testcase time="0.00199999999999534" classname="ds.dataFrame_expt_one_column_from_objects_single" name="numeric_data"/>
+  </testsuite>
+  <testsuite name="ds.dataFrame::expt::object::multiple" timestamp="2026-04-11T03:54:41Z" hostname="runnervm35a4x" tests="32" skipped="0" failures="0" errors="0" time="22.937">
+    <testcase time="9.294" classname="ds.dataFrame_expt_object_multiple" name="numeric_data"/>
+    <testcase time="0.00199999999999534" classname="ds.dataFrame_expt_object_multiple" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_object_multiple" name="numeric_data"/>
+    <testcase time="0.00199999999999534" classname="ds.dataFrame_expt_object_multiple" name="numeric_data"/>
+    <testcase time="1.971" classname="ds.dataFrame_expt_object_multiple" name="numeric_data"/>
+    <testcase time="0.00199999999999534" classname="ds.dataFrame_expt_object_multiple" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_object_multiple" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_object_multiple" name="numeric_data"/>
+    <testcase time="1.902" classname="ds.dataFrame_expt_object_multiple" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_object_multiple" name="numeric_data"/>
+    <testcase time="0.00200000000000955" classname="ds.dataFrame_expt_object_multiple" name="numeric_data"/>
+    <testcase time="0.0029999999999859" classname="ds.dataFrame_expt_object_multiple" name="numeric_data"/>
+    <testcase time="1.97000000000001" classname="ds.dataFrame_expt_object_multiple" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_object_multiple" name="numeric_data"/>
+    <testcase time="0.00199999999999534" classname="ds.dataFrame_expt_object_multiple" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_object_multiple" name="numeric_data"/>
+    <testcase time="1.961" classname="ds.dataFrame_expt_object_multiple" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_object_multiple" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_object_multiple" name="numeric_data"/>
+    <testcase time="0.00199999999999534" classname="ds.dataFrame_expt_object_multiple" name="numeric_data"/>
+    <testcase time="1.91800000000001" classname="ds.dataFrame_expt_object_multiple" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_object_multiple" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_object_multiple" name="numeric_data"/>
+    <testcase time="0.00199999999999534" classname="ds.dataFrame_expt_object_multiple" name="numeric_data"/>
+    <testcase time="1.94" classname="ds.dataFrame_expt_object_multiple" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_object_multiple" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_object_multiple" name="numeric_data"/>
+    <testcase time="0.00200000000000955" classname="ds.dataFrame_expt_object_multiple" name="numeric_data"/>
+    <testcase time="1.91799999999999" classname="ds.dataFrame_expt_object_multiple" name="numeric_data"/>
+    <testcase time="0.00200000000000955" classname="ds.dataFrame_expt_object_multiple" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_object_multiple" name="numeric_data"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_object_multiple" name="numeric_data"/>
+  </testsuite>
+  <testsuite name="ds.dataFrame::expt::several_objects::multiple" timestamp="2026-04-11T03:55:04Z" hostname="runnervm35a4x" tests="4" skipped="0" failures="0" errors="0" time="10.085">
+    <testcase time="10.076" classname="ds.dataFrame_expt_several_objects_multiple" name="several_objects"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_several_objects_multiple" name="several_objects"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_several_objects_multiple" name="several_objects"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_several_objects_multiple" name="several_objects"/>
+  </testsuite>
+  <testsuite name="ds.dataFrame::expt::non_numeric::multiple" timestamp="2026-04-11T03:55:14Z" hostname="runnervm35a4x" tests="18" skipped="0" failures="0" errors="0" time="14.535">
+    <testcase time="8.95099999999999" classname="ds.dataFrame_expt_non_numeric_multiple" name="non_numeric"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_non_numeric_multiple" name="non_numeric"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_non_numeric_multiple" name="non_numeric"/>
+    <testcase time="0.00200000000000955" classname="ds.dataFrame_expt_non_numeric_multiple" name="non_numeric"/>
+    <testcase time="0.00199999999999534" classname="ds.dataFrame_expt_non_numeric_multiple" name="non_numeric"/>
+    <testcase time="1.67700000000001" classname="ds.dataFrame_expt_non_numeric_multiple" name="non_numeric"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_non_numeric_multiple" name="non_numeric"/>
+    <testcase time="0.00199999999999534" classname="ds.dataFrame_expt_non_numeric_multiple" name="non_numeric"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_non_numeric_multiple" name="non_numeric"/>
+    <testcase time="0.00199999999999534" classname="ds.dataFrame_expt_non_numeric_multiple" name="non_numeric"/>
+    <testcase time="1.96300000000001" classname="ds.dataFrame_expt_non_numeric_multiple" name="non_numeric"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_non_numeric_multiple" name="non_numeric"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_non_numeric_multiple" name="non_numeric"/>
+    <testcase time="0.00199999999999534" classname="ds.dataFrame_expt_non_numeric_multiple" name="non_numeric"/>
+    <testcase time="1.907" classname="ds.dataFrame_expt_non_numeric_multiple" name="non_numeric"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_non_numeric_multiple" name="non_numeric"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_non_numeric_multiple" name="non_numeric"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_non_numeric_multiple" name="non_numeric"/>
+  </testsuite>
+  <testsuite name="ds.dataFrame::expt::non_numeric::multiple" timestamp="2026-04-11T03:55:28Z" hostname="runnervm35a4x" tests="10" skipped="0" failures="0" errors="0" time="5.378">
+    <testcase time="3.471" classname="ds.dataFrame_expt_non_numeric_multiple" name="_unnamed_"/>
+    <testcase time="0.00199999999999534" classname="ds.dataFrame_expt_non_numeric_multiple" name="_unnamed_"/>
+    <testcase time="0.00199999999999534" classname="ds.dataFrame_expt_non_numeric_multiple" name="_unnamed_"/>
+    <testcase time="0.546000000000006" classname="ds.dataFrame_expt_non_numeric_multiple" name="_unnamed_"/>
+    <testcase time="0.00199999999999534" classname="ds.dataFrame_expt_non_numeric_multiple" name="_unnamed_"/>
+    <testcase time="0.00200000000000955" classname="ds.dataFrame_expt_non_numeric_multiple" name="_unnamed_"/>
+    <testcase time="0.677999999999997" classname="ds.dataFrame_expt_non_numeric_multiple" name="_unnamed_"/>
+    <testcase time="0.00300000000000011" classname="ds.dataFrame_expt_non_numeric_multiple" name="_unnamed_"/>
+    <testcase time="0.667999999999992" classname="ds.dataFrame_expt_non_numeric_multiple" name="_unnamed_"/>
+    <testcase time="0.00400000000000489" classname="ds.dataFrame_expt_non_numeric_multiple" name="_unnamed_"/>
+  </testsuite>
+  <testsuite name="ds.dataFrame::expt::shutdown" timestamp="2026-04-11T03:55:34Z" hostname="runnervm35a4x" tests="0" skipped="0" failures="0" errors="0" time="0"/>
+  <testsuite name="ds.dataFrame::expt::done" timestamp="2026-04-11T03:55:34Z" hostname="runnervm35a4x" tests="0" skipped="0" failures="0" errors="0" time="0"/>
+  <testsuite name="expt-ds.glmerSLMA" timestamp="2026-04-11T03:55:34Z" hostname="runnervm35a4x" tests="0" skipped="0" failures="0" errors="0" time="0"/>
+  <testsuite name="ds.glmerSLMA::expt::setup" timestamp="2026-04-11T03:55:34Z" hostname="runnervm35a4x" tests="3" skipped="0" failures="0" errors="0" time="7.379">
+    <testcase time="7.376" classname="ds.glmerSLMA_expt_setup" name="setup"/>
+    <testcase time="0.000999999999990564" classname="ds.glmerSLMA_expt_setup" name="setup"/>
+    <testcase time="0.00200000000000955" classname="ds.glmerSLMA_expt_setup" name="setup"/>
+  </testsuite>
+  <testsuite name="ds.glmerSLMA::expt::int::multiple" timestamp="2026-04-11T03:55:41Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="1.489">
+    <testcase time="1.48899999999999" classname="ds.glmerSLMA_expt_int_multiple" name="linear_mixed_model_with_2_levels_of_hierarchy"/>
+  </testsuite>
+  <testsuite name="ds.lmerSLMA::expt::shutdown" timestamp="2026-04-11T03:55:43Z" hostname="runnervm35a4x" tests="0" skipped="0" failures="0" errors="0" time="0"/>
+  <testsuite name="ds.lmerSLMA::expt::done" timestamp="2026-04-11T03:55:43Z" hostname="runnervm35a4x" tests="0" skipped="0" failures="0" errors="0" time="0"/>
+  <testsuite name="expt-ds.lmerSLMA" timestamp="2026-04-11T03:55:43Z" hostname="runnervm35a4x" tests="0" skipped="0" failures="0" errors="0" time="0"/>
+  <testsuite name="ds.lmerSLMA::expt::setup" timestamp="2026-04-11T03:55:43Z" hostname="runnervm35a4x" tests="3" skipped="0" failures="0" errors="0" time="7.339">
+    <testcase time="7.334" classname="ds.lmerSLMA_expt_setup" name="setup"/>
+    <testcase time="0.00200000000000955" classname="ds.lmerSLMA_expt_setup" name="setup"/>
+    <testcase time="0.0029999999999859" classname="ds.lmerSLMA_expt_setup" name="setup"/>
+  </testsuite>
+  <testsuite name="ds.lmerSLMA::expt::int::multiple" timestamp="2026-04-11T03:55:50Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="0.689">
+    <testcase time="0.688999999999993" classname="ds.lmerSLMA_expt_int_multiple" name="linear_mixed_model_with_2_levels_of_hierarchy"/>
+  </testsuite>
+  <testsuite name="ds.lmerSLMA::expt::done" timestamp="2026-04-11T03:55:51Z" hostname="runnervm35a4x" tests="0" skipped="0" failures="0" errors="0" time="0"/>
+  <testsuite name="expt-ds.mean" timestamp="2026-04-11T03:55:51Z" hostname="runnervm35a4x" tests="0" skipped="0" failures="0" errors="0" time="0"/>
+  <testsuite name="ds.mean::expt::combine::multiple" timestamp="2026-04-11T03:55:51Z" hostname="runnervm35a4x" tests="8" skipped="0" failures="0" errors="0" time="10.509">
+    <testcase time="7.88200000000001" classname="ds.mean_expt_combine_multiple" name="combined_data_set"/>
+    <testcase time="0.337000000000018" classname="ds.mean_expt_combine_multiple" name="combined_data_set"/>
+    <testcase time="0.377999999999986" classname="ds.mean_expt_combine_multiple" name="combined_data_set"/>
+    <testcase time="0.376000000000005" classname="ds.mean_expt_combine_multiple" name="combined_data_set"/>
+    <testcase time="0.375" classname="ds.mean_expt_combine_multiple" name="combined_data_set"/>
+    <testcase time="0.384999999999991" classname="ds.mean_expt_combine_multiple" name="combined_data_set"/>
+    <testcase time="0.391999999999996" classname="ds.mean_expt_combine_multiple" name="combined_data_set"/>
+    <testcase time="0.384000000000015" classname="ds.mean_expt_combine_multiple" name="combined_data_set"/>
+  </testsuite>
+  <testsuite name="ds.mean::expt::split::multiple" timestamp="2026-04-11T03:56:01Z" hostname="runnervm35a4x" tests="24" skipped="0" failures="0" errors="0" time="10.121">
+    <testcase time="7.59199999999998" classname="ds.mean_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.00200000000000955" classname="ds.mean_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.00200000000000955" classname="ds.mean_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.353000000000009" classname="ds.mean_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.0029999999999859" classname="ds.mean_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.00200000000000955" classname="ds.mean_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.383999999999986" classname="ds.mean_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.00200000000000955" classname="ds.mean_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.00100000000000477" classname="ds.mean_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.391999999999996" classname="ds.mean_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.00199999999998113" classname="ds.mean_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.00200000000000955" classname="ds.mean_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.287000000000006" classname="ds.mean_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.00200000000000955" classname="ds.mean_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.000999999999976353" classname="ds.mean_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.329000000000008" classname="ds.mean_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.00100000000000477" classname="ds.mean_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.00199999999998113" classname="ds.mean_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.37700000000001" classname="ds.mean_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.00200000000000955" classname="ds.mean_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.00199999999998113" classname="ds.mean_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.37700000000001" classname="ds.mean_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.00200000000000955" classname="ds.mean_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.00199999999998113" classname="ds.mean_expt_split_multiple" name="split_data_set"/>
+  </testsuite>
+  <testsuite name="ds.mean::expt::single" timestamp="2026-04-11T03:56:11Z" hostname="runnervm35a4x" tests="8" skipped="0" failures="0" errors="0" time="3.913">
+    <testcase time="3.02300000000002" classname="ds.mean_expt_single" name="combined_data_set"/>
+    <testcase time="0.125999999999976" classname="ds.mean_expt_single" name="combined_data_set"/>
+    <testcase time="0.131" classname="ds.mean_expt_single" name="combined_data_set"/>
+    <testcase time="0.125" classname="ds.mean_expt_single" name="combined_data_set"/>
+    <testcase time="0.126000000000005" classname="ds.mean_expt_single" name="combined_data_set"/>
+    <testcase time="0.126000000000005" classname="ds.mean_expt_single" name="combined_data_set"/>
+    <testcase time="0.127999999999986" classname="ds.mean_expt_single" name="combined_data_set"/>
+    <testcase time="0.128000000000014" classname="ds.mean_expt_single" name="combined_data_set"/>
+  </testsuite>
+  <testsuite name="ds.mean::expt::large_values::single" timestamp="2026-04-11T03:56:15Z" hostname="runnervm35a4x" tests="8" skipped="0" failures="0" errors="0" time="5.656">
+    <testcase time="3.20099999999999" classname="ds.mean_expt_large_values_single" name="combined_data_set"/>
+    <testcase time="0.353000000000009" classname="ds.mean_expt_large_values_single" name="combined_data_set"/>
+    <testcase time="0.347999999999985" classname="ds.mean_expt_large_values_single" name="combined_data_set"/>
+    <testcase time="0.346000000000004" classname="ds.mean_expt_large_values_single" name="combined_data_set"/>
+    <testcase time="0.352000000000004" classname="ds.mean_expt_large_values_single" name="combined_data_set"/>
+    <testcase time="0.407000000000011" classname="ds.mean_expt_large_values_single" name="combined_data_set"/>
+    <testcase time="0.301999999999992" classname="ds.mean_expt_large_values_single" name="combined_data_set"/>
+    <testcase time="0.347000000000008" classname="ds.mean_expt_large_values_single" name="combined_data_set"/>
+  </testsuite>
+  <testsuite name="ds.mean::expt::large_values::multiple" timestamp="2026-04-11T03:56:21Z" hostname="runnervm35a4x" tests="8" skipped="0" failures="0" errors="0" time="15.46">
+    <testcase time="8.46099999999998" classname="ds.mean_expt_large_values_multiple" name="combined_data_set"/>
+    <testcase time="1.03100000000001" classname="ds.mean_expt_large_values_multiple" name="combined_data_set"/>
+    <testcase time="1.03" classname="ds.mean_expt_large_values_multiple" name="combined_data_set"/>
+    <testcase time="1.023" classname="ds.mean_expt_large_values_multiple" name="combined_data_set"/>
+    <testcase time="0.944999999999993" classname="ds.mean_expt_large_values_multiple" name="combined_data_set"/>
+    <testcase time="1.018" classname="ds.mean_expt_large_values_multiple" name="combined_data_set"/>
+    <testcase time="0.974000000000018" classname="ds.mean_expt_large_values_multiple" name="combined_data_set"/>
+    <testcase time="0.97799999999998" classname="ds.mean_expt_large_values_multiple" name="combined_data_set"/>
+  </testsuite>
+  <testsuite name="expt-ds.reshape" timestamp="2026-04-11T03:56:36Z" hostname="runnervm35a4x" tests="0" skipped="0" failures="0" errors="0" time="0"/>
+  <testsuite name="ds.reShape::expt::multiple" timestamp="2026-04-11T03:56:36Z" hostname="runnervm35a4x" tests="1" skipped="1" failures="0" errors="0" time="0.458">
+    <testcase time="0.457999999999998" classname="ds.reShape_expt_multiple" name="copy_and_transform">
+      <skipped message="Reason: empty test ('test-expt-ds.reshape.R:7:1')"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="expt-ds.skewness" timestamp="2026-04-11T03:56:37Z" hostname="runnervm35a4x" tests="0" skipped="0" failures="0" errors="0" time="0"/>
+  <testsuite name="ds.skewness::expt::combine::multiple" timestamp="2026-04-11T03:56:37Z" hostname="runnervm35a4x" tests="8" skipped="0" failures="0" errors="0" time="11.606">
+    <testcase time="7.81400000000002" classname="ds.skewness_expt_combine_multiple" name="combined_data_set"/>
+    <testcase time="0.548999999999978" classname="ds.skewness_expt_combine_multiple" name="combined_data_set"/>
+    <testcase time="0.541000000000025" classname="ds.skewness_expt_combine_multiple" name="combined_data_set"/>
+    <testcase time="0.542000000000002" classname="ds.skewness_expt_combine_multiple" name="combined_data_set"/>
+    <testcase time="0.537999999999982" classname="ds.skewness_expt_combine_multiple" name="combined_data_set"/>
+    <testcase time="0.543000000000006" classname="ds.skewness_expt_combine_multiple" name="combined_data_set"/>
+    <testcase time="0.538999999999987" classname="ds.skewness_expt_combine_multiple" name="combined_data_set"/>
+    <testcase time="0.54000000000002" classname="ds.skewness_expt_combine_multiple" name="combined_data_set"/>
+  </testsuite>
+  <testsuite name="ds.skewness::expt::split::multiple" timestamp="2026-04-11T03:56:48Z" hostname="runnervm35a4x" tests="24" skipped="0" failures="0" errors="0" time="10.314">
+    <testcase time="7.715" classname="ds.skewness_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.00199999999998113" classname="ds.skewness_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.00200000000000955" classname="ds.skewness_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.326999999999998" classname="ds.skewness_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.00200000000000955" classname="ds.skewness_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.000999999999976353" classname="ds.skewness_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.387" classname="ds.skewness_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.00200000000000955" classname="ds.skewness_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.00200000000000955" classname="ds.skewness_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.36699999999999" classname="ds.skewness_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.00200000000000955" classname="ds.skewness_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.00100000000000477" classname="ds.skewness_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.36699999999999" classname="ds.skewness_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.00200000000000955" classname="ds.skewness_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.00199999999998113" classname="ds.skewness_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.371000000000009" classname="ds.skewness_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.00200000000000955" classname="ds.skewness_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.000999999999976353" classname="ds.skewness_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.382000000000005" classname="ds.skewness_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.00200000000000955" classname="ds.skewness_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.00200000000000955" classname="ds.skewness_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.369999999999976" classname="ds.skewness_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.00200000000000955" classname="ds.skewness_expt_split_multiple" name="split_data_set"/>
+    <testcase time="0.00100000000000477" classname="ds.skewness_expt_split_multiple" name="split_data_set"/>
+  </testsuite>
+  <testsuite name="ds.skewness::expt::single" timestamp="2026-04-11T03:56:59Z" hostname="runnervm35a4x" tests="8" skipped="0" failures="0" errors="0" time="4.279">
+    <testcase time="3.09299999999999" classname="ds.skewness_expt_single" name="combined_data_set"/>
+    <testcase time="0.14500000000001" classname="ds.skewness_expt_single" name="combined_data_set"/>
+    <testcase time="0.14500000000001" classname="ds.skewness_expt_single" name="combined_data_set"/>
+    <testcase time="0.149000000000001" classname="ds.skewness_expt_single" name="combined_data_set"/>
+    <testcase time="0.188000000000017" classname="ds.skewness_expt_single" name="combined_data_set"/>
+    <testcase time="0.183999999999997" classname="ds.skewness_expt_single" name="combined_data_set"/>
+    <testcase time="0.186000000000007" classname="ds.skewness_expt_single" name="combined_data_set"/>
+    <testcase time="0.188999999999993" classname="ds.skewness_expt_single" name="combined_data_set"/>
+  </testsuite>
+  <testsuite name="expt-ds.var" timestamp="2026-04-11T03:57:03Z" hostname="runnervm35a4x" tests="0" skipped="0" failures="0" errors="0" time="0"/>
+  <testsuite name="ds.var::expt::multiple" timestamp="2026-04-11T03:57:03Z" hostname="runnervm35a4x" tests="8" skipped="0" failures="0" errors="0" time="11.517">
+    <testcase time="7.864" classname="ds.var_expt_multiple" name="combined_data_set"/>
+    <testcase time="0.484999999999985" classname="ds.var_expt_multiple" name="combined_data_set"/>
+    <testcase time="0.539000000000016" classname="ds.var_expt_multiple" name="combined_data_set"/>
+    <testcase time="0.453000000000003" classname="ds.var_expt_multiple" name="combined_data_set"/>
+    <testcase time="0.560999999999979" classname="ds.var_expt_multiple" name="combined_data_set"/>
+    <testcase time="0.568000000000012" classname="ds.var_expt_multiple" name="combined_data_set"/>
+    <testcase time="0.498999999999995" classname="ds.var_expt_multiple" name="combined_data_set"/>
+    <testcase time="0.548000000000002" classname="ds.var_expt_multiple" name="combined_data_set"/>
+  </testsuite>
+  <testsuite name="ds.var::expt::single" timestamp="2026-04-11T03:57:15Z" hostname="runnervm35a4x" tests="24" skipped="0" failures="0" errors="0" time="11.561">
+    <testcase time="7.876" classname="ds.var_expt_single" name="split_data_set"/>
+    <testcase time="0.00200000000000955" classname="ds.var_expt_single" name="split_data_set"/>
+    <testcase time="0.000999999999976353" classname="ds.var_expt_single" name="split_data_set"/>
+    <testcase time="0.518000000000001" classname="ds.var_expt_single" name="split_data_set"/>
+    <testcase time="0.00200000000000955" classname="ds.var_expt_single" name="split_data_set"/>
+    <testcase time="0.00200000000000955" classname="ds.var_expt_single" name="split_data_set"/>
+    <testcase time="0.539999999999992" classname="ds.var_expt_single" name="split_data_set"/>
+    <testcase time="0.00199999999998113" classname="ds.var_expt_single" name="split_data_set"/>
+    <testcase time="0.00300000000001432" classname="ds.var_expt_single" name="split_data_set"/>
+    <testcase time="0.490000000000009" classname="ds.var_expt_single" name="split_data_set"/>
+    <testcase time="0.00199999999998113" classname="ds.var_expt_single" name="split_data_set"/>
+    <testcase time="0.00100000000000477" classname="ds.var_expt_single" name="split_data_set"/>
+    <testcase time="0.533000000000015" classname="ds.var_expt_single" name="split_data_set"/>
+    <testcase time="0.00199999999998113" classname="ds.var_expt_single" name="split_data_set"/>
+    <testcase time="0.00100000000000477" classname="ds.var_expt_single" name="split_data_set"/>
+    <testcase time="0.543000000000006" classname="ds.var_expt_single" name="split_data_set"/>
+    <testcase time="0.00200000000000955" classname="ds.var_expt_single" name="split_data_set"/>
+    <testcase time="0.000999999999976353" classname="ds.var_expt_single" name="split_data_set"/>
+    <testcase time="0.498000000000019" classname="ds.var_expt_single" name="split_data_set"/>
+    <testcase time="0.00199999999998113" classname="ds.var_expt_single" name="split_data_set"/>
+    <testcase time="0.00200000000000955" classname="ds.var_expt_single" name="split_data_set"/>
+    <testcase time="0.533999999999992" classname="ds.var_expt_single" name="split_data_set"/>
+    <testcase time="0.00200000000000955" classname="ds.var_expt_single" name="split_data_set"/>
+    <testcase time="0.00200000000000955" classname="ds.var_expt_single" name="split_data_set"/>
+  </testsuite>
+  <testsuite name="ds.var::expt::large_values::multiple" timestamp="2026-04-11T03:57:26Z" hostname="runnervm35a4x" tests="8" skipped="0" failures="0" errors="0" time="16.587">
+    <testcase time="8.44299999999998" classname="ds.var_expt_large_values_multiple" name="large_values"/>
+    <testcase time="1.14600000000002" classname="ds.var_expt_large_values_multiple" name="large_values"/>
+    <testcase time="1.18199999999999" classname="ds.var_expt_large_values_multiple" name="large_values"/>
+    <testcase time="1.13400000000001" classname="ds.var_expt_large_values_multiple" name="large_values"/>
+    <testcase time="1.18099999999998" classname="ds.var_expt_large_values_multiple" name="large_values"/>
+    <testcase time="1.17099999999999" classname="ds.var_expt_large_values_multiple" name="large_values"/>
+    <testcase time="1.14500000000001" classname="ds.var_expt_large_values_multiple" name="large_values"/>
+    <testcase time="1.185" classname="ds.var_expt_large_values_multiple" name="large_values"/>
+  </testsuite>
+  <testsuite name="ds.var::expt::large_values::single" timestamp="2026-04-11T03:57:43Z" hostname="runnervm35a4x" tests="8" skipped="0" failures="0" errors="0" time="6.133">
+    <testcase time="3.33099999999999" classname="ds.var_expt_large_values_single" name="large_values"/>
+    <testcase time="0.398000000000025" classname="ds.var_expt_large_values_single" name="large_values"/>
+    <testcase time="0.399999999999977" classname="ds.var_expt_large_values_single" name="large_values"/>
+    <testcase time="0.400000000000006" classname="ds.var_expt_large_values_single" name="large_values"/>
+    <testcase time="0.402000000000015" classname="ds.var_expt_large_values_single" name="large_values"/>
+    <testcase time="0.403999999999996" classname="ds.var_expt_large_values_single" name="large_values"/>
+    <testcase time="0.399000000000001" classname="ds.var_expt_large_values_single" name="large_values"/>
+    <testcase time="0.399000000000001" classname="ds.var_expt_large_values_single" name="large_values"/>
+  </testsuite>
+  <testsuite name="smk_expt-ds.mean" timestamp="2026-04-11T03:57:49Z" hostname="runnervm35a4x" tests="0" skipped="0" failures="0" errors="0" time="0"/>
+  <testsuite name="ds.mean::smk_expt::type=combine" timestamp="2026-04-11T03:57:56Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="7.315">
+    <testcase time="7.31499999999997" classname="ds.mean_smk_expt_type_combine" name="mean_values_combine_"/>
+  </testsuite>
+  <testsuite name="ds.mean::smk_expt::type=split" timestamp="2026-04-11T03:57:56Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="0.176">
+    <testcase time="0.176000000000045" classname="ds.mean_smk_expt_type_split" name="mean_values_split_"/>
+  </testsuite>
+  <testsuite name="ds.mean::smk_expt::type=both" timestamp="2026-04-11T03:57:56Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="0.175">
+    <testcase time="0.174999999999955" classname="ds.mean_smk_expt_type_both" name="mean_values_both_"/>
+  </testsuite>
+  <testsuite name="ds.mean::smk_expt::type=combine" timestamp="2026-04-11T03:57:56Z" hostname="runnervm35a4x" tests="1" skipped="1" failures="0" errors="0" time="0.005">
+    <testcase time="0.00499999999999545" classname="ds.mean_smk_expt_type_combine" name="mean_values_combine_">
+      <skipped message="Reason: empty test ('test-smk_expt-ds.mean.R:43:1')"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="ds.mean::smk_expt::type=split" timestamp="2026-04-11T03:57:56Z" hostname="runnervm35a4x" tests="1" skipped="1" failures="0" errors="0" time="0.021">
+    <testcase time="0.021000000000015" classname="ds.mean_smk_expt_type_split" name="mean_values_split_">
+      <skipped message="Reason: empty test ('test-smk_expt-ds.mean.R:50:1')"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="ds.mean::smk_expt::type=both" timestamp="2026-04-11T03:57:57Z" hostname="runnervm35a4x" tests="1" skipped="1" failures="0" errors="0" time="0.021">
+    <testcase time="0.021000000000015" classname="ds.mean_smk_expt_type_both" name="mean_values_both_">
+      <skipped message="Reason: empty test ('test-smk_expt-ds.mean.R:57:1')"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="ds.mean::smk_expt::type=combine" timestamp="2026-04-11T03:57:57Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="0.189">
+    <testcase time="0.189000000000021" classname="ds.mean_smk_expt_type_combine" name="mean_values_combine_"/>
+  </testsuite>
+  <testsuite name="ds.mean::smk_expt::type=split" timestamp="2026-04-11T03:57:57Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="0.172">
+    <testcase time="0.171999999999969" classname="ds.mean_smk_expt_type_split" name="mean_values_split_"/>
+  </testsuite>
+  <testsuite name="ds.mean::smk_expt::type=both" timestamp="2026-04-11T03:57:57Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="0.174">
+    <testcase time="0.174000000000035" classname="ds.mean_smk_expt_type_both" name="mean_values_both_"/>
+  </testsuite>
+  <testsuite name="ds.mean::smk_expt::type=combine" timestamp="2026-04-11T03:57:57Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="0.171">
+    <testcase time="0.170999999999992" classname="ds.mean_smk_expt_type_combine" name="mean_values_combine_"/>
+  </testsuite>
+  <testsuite name="ds.mean::smk_expt::type=split" timestamp="2026-04-11T03:57:57Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="0.175">
+    <testcase time="0.174999999999955" classname="ds.mean_smk_expt_type_split" name="mean_values_split_"/>
+  </testsuite>
+  <testsuite name="ds.mean::smk_expt::type=both" timestamp="2026-04-11T03:57:57Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="0.18">
+    <testcase time="0.180000000000007" classname="ds.mean_smk_expt_type_both" name="mean_values_both_"/>
+  </testsuite>
+  <testsuite name="ds.mean::smk_expt::type=combine" timestamp="2026-04-11T03:57:58Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="0.181">
+    <testcase time="0.18100000000004" classname="ds.mean_smk_expt_type_combine" name="mean_values_combine_"/>
+  </testsuite>
+  <testsuite name="ds.mean::smk_expt::type=split" timestamp="2026-04-11T03:57:58Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="0.175">
+    <testcase time="0.174999999999955" classname="ds.mean_smk_expt_type_split" name="mean_values_split_"/>
+  </testsuite>
+  <testsuite name="ds.mean::smk_expt::type=both" timestamp="2026-04-11T03:57:58Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="0.179">
+    <testcase time="0.17900000000003" classname="ds.mean_smk_expt_type_both" name="mean_values_both_"/>
+  </testsuite>
+  <testsuite name="ds.mean::smk_expt::type=combine" timestamp="2026-04-11T03:57:58Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="0.992">
+    <testcase time="0.992000000000019" classname="ds.mean_smk_expt_type_combine" name="mean_values_combine_"/>
+  </testsuite>
+  <testsuite name="ds.mean::smk_expt::type=split" timestamp="2026-04-11T03:57:59Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="0.908">
+    <testcase time="0.907999999999959" classname="ds.mean_smk_expt_type_split" name="mean_values_split_"/>
+  </testsuite>
+  <testsuite name="ds.mean::smk_expt::type=both" timestamp="2026-04-11T03:58:00Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="0.985">
+    <testcase time="0.985000000000014" classname="ds.mean_smk_expt_type_both" name="mean_values_both_"/>
+  </testsuite>
+  <testsuite name="ds.mean::smk_expt::type=combine" timestamp="2026-04-11T03:58:01Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="0.948">
+    <testcase time="0.947999999999979" classname="ds.mean_smk_expt_type_combine" name="mean_values_combine_"/>
+  </testsuite>
+  <testsuite name="ds.mean::smk_expt::type=split" timestamp="2026-04-11T03:58:02Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="0.984">
+    <testcase time="0.984000000000037" classname="ds.mean_smk_expt_type_split" name="mean_values_split_"/>
+  </testsuite>
+  <testsuite name="ds.mean::smk_expt::type=both" timestamp="2026-04-11T03:58:03Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="0.898">
+    <testcase time="0.897999999999968" classname="ds.mean_smk_expt_type_both" name="mean_values_both_"/>
+  </testsuite>
+  <testsuite name="ds.mean::smk_expt::type=combine" timestamp="2026-04-11T03:58:04Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="0.991">
+    <testcase time="0.990999999999985" classname="ds.mean_smk_expt_type_combine" name="mean_values_combine_"/>
+  </testsuite>
+  <testsuite name="ds.mean::smk_expt::type=split" timestamp="2026-04-11T03:58:05Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="0.944">
+    <testcase time="0.944000000000017" classname="ds.mean_smk_expt_type_split" name="mean_values_split_"/>
+  </testsuite>
+  <testsuite name="ds.mean::smk_expt::type=both" timestamp="2026-04-11T03:58:06Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="0.986">
+    <testcase time="0.98599999999999" classname="ds.mean_smk_expt_type_both" name="mean_values_both_"/>
+  </testsuite>
+  <testsuite name="ds.mean::smk_expt::type=combine" timestamp="2026-04-11T03:58:07Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="0.989">
+    <testcase time="0.988999999999976" classname="ds.mean_smk_expt_type_combine" name="mean_values_combine_"/>
+  </testsuite>
+  <testsuite name="ds.mean::smk_expt::type=split" timestamp="2026-04-11T03:58:08Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="1.128">
+    <testcase time="1.12800000000004" classname="ds.mean_smk_expt_type_split" name="mean_values_split_"/>
+  </testsuite>
+  <testsuite name="ds.mean::smk_expt::type=both" timestamp="2026-04-11T03:58:09Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="0.946">
+    <testcase time="0.94599999999997" classname="ds.mean_smk_expt_type_both" name="mean_values_both_"/>
+  </testsuite>
+  <testsuite name="ds.mean::smk_expt::type=combine" timestamp="2026-04-11T03:58:10Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="0.983">
+    <testcase time="0.983000000000004" classname="ds.mean_smk_expt_type_combine" name="mean_values_combine_"/>
+  </testsuite>
+  <testsuite name="ds.mean::smk_expt::type=split" timestamp="2026-04-11T03:58:11Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="0.95">
+    <testcase time="0.949999999999989" classname="ds.mean_smk_expt_type_split" name="mean_values_split_"/>
+  </testsuite>
+  <testsuite name="ds.mean::smk_expt::type=both" timestamp="2026-04-11T03:58:12Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="0.981">
+    <testcase time="0.980999999999995" classname="ds.mean_smk_expt_type_both" name="mean_values_both_"/>
+  </testsuite>
+  <testsuite name="ds.mean::smk_expt::type=combine" timestamp="2026-04-11T03:58:13Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="1.146">
+    <testcase time="1.14600000000002" classname="ds.mean_smk_expt_type_combine" name="mean_values_combine_"/>
+  </testsuite>
+  <testsuite name="ds.mean::smk_expt::type=split" timestamp="2026-04-11T03:58:14Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="0.979">
+    <testcase time="0.978999999999985" classname="ds.mean_smk_expt_type_split" name="mean_values_split_"/>
+  </testsuite>
+  <testsuite name="ds.mean::smk_expt::type=both" timestamp="2026-04-11T03:58:15Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="0.994">
+    <testcase time="0.994000000000028" classname="ds.mean_smk_expt_type_both" name="mean_values_both_"/>
+  </testsuite>
+  <testsuite name="smk_expt-ds.ranksSecure" timestamp="2026-04-11T03:58:16Z" hostname="runnervm35a4x" tests="0" skipped="0" failures="0" errors="0" time="0"/>
+  <testsuite name="ds.ranksSecure::smk_expt::setup" timestamp="2026-04-11T03:58:16Z" hostname="runnervm35a4x" tests="3" skipped="0" failures="0" errors="0" time="7.377">
+    <testcase time="7.37299999999999" classname="ds.ranksSecure_smk_expt_setup" name="setup"/>
+    <testcase time="0.00200000000000955" classname="ds.ranksSecure_smk_expt_setup" name="setup"/>
+    <testcase time="0.00200000000000955" classname="ds.ranksSecure_smk_expt_setup" name="setup"/>
+  </testsuite>
+  <testsuite name="ds.ranksSecure::smk_expt::continous, without NAs, all positive" timestamp="2026-04-11T03:58:23Z" hostname="runnervm35a4x" tests="6" skipped="0" failures="0" errors="0" time="10.178">
+    <testcase time="0.822000000000003" classname="ds.ranksSecure_smk_expt_continous_without_NAs_all_positive" name="continous_without_NAs_all_positive"/>
+    <testcase time="0.366999999999962" classname="ds.ranksSecure_smk_expt_continous_without_NAs_all_positive" name="continous_without_NAs_all_positive"/>
+    <testcase time="0.0010000000000332" classname="ds.ranksSecure_smk_expt_continous_without_NAs_all_positive" name="continous_without_NAs_all_positive"/>
+    <testcase time="0.00200000000000955" classname="ds.ranksSecure_smk_expt_continous_without_NAs_all_positive" name="continous_without_NAs_all_positive"/>
+    <testcase time="0.000999999999976353" classname="ds.ranksSecure_smk_expt_continous_without_NAs_all_positive" name="continous_without_NAs_all_positive"/>
+    <testcase time="8.98500000000001" classname="ds.ranksSecure_smk_expt_continous_without_NAs_all_positive" name="continous_without_NAs_all_positive"/>
+  </testsuite>
+  <testsuite name="ds.ranksSecure::smk_expt::continous, without NAs, with negative" timestamp="2026-04-11T03:58:33Z" hostname="runnervm35a4x" tests="6" skipped="0" failures="0" errors="0" time="10.187">
+    <testcase time="0.826999999999998" classname="ds.ranksSecure_smk_expt_continous_without_NAs_with_negative" name="continous_without_NAs_with_negative"/>
+    <testcase time="0.363" classname="ds.ranksSecure_smk_expt_continous_without_NAs_with_negative" name="continous_without_NAs_with_negative"/>
+    <testcase time="0.00200000000000955" classname="ds.ranksSecure_smk_expt_continous_without_NAs_with_negative" name="continous_without_NAs_with_negative"/>
+    <testcase time="0.00199999999995271" classname="ds.ranksSecure_smk_expt_continous_without_NAs_with_negative" name="continous_without_NAs_with_negative"/>
+    <testcase time="0.0010000000000332" classname="ds.ranksSecure_smk_expt_continous_without_NAs_with_negative" name="continous_without_NAs_with_negative"/>
+    <testcase time="8.99200000000002" classname="ds.ranksSecure_smk_expt_continous_without_NAs_with_negative" name="continous_without_NAs_with_negative"/>
+  </testsuite>
+  <testsuite name="ds.ranksSecure::smk_expt::continous, with NAs, all positive" timestamp="2026-04-11T03:58:44Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="9.127">
+    <testcase time="9.12699999999995" classname="ds.ranksSecure_smk_expt_continous_with_NAs_all_positive" name="continous_with_NAs_all_positive"/>
+  </testsuite>
+  <testsuite name="ds.ranksSecure::smk_expt::continous, with NAs, with negative" timestamp="2026-04-11T03:58:53Z" hostname="runnervm35a4x" tests="1" skipped="0" failures="0" errors="0" time="9.109">
+    <testcase time="9.10900000000004" classname="ds.ranksSecure_smk_expt_continous_with_NAs_with_negative" name="continous_with_NAs_with_negative"/>
+  </testsuite>
+  <testsuite name="ds.ranksSecure::smk_expt::shutdown" timestamp="2026-04-11T03:59:02Z" hostname="runnervm35a4x" tests="3" skipped="0" failures="0" errors="0" time="0.177">
+    <testcase time="0.173999999999978" classname="ds.ranksSecure_smk_expt_shutdown" name="setup"/>
+    <testcase time="0.000999999999976353" classname="ds.ranksSecure_smk_expt_shutdown" name="setup"/>
+    <testcase time="0.00200000000000955" classname="ds.ranksSecure_smk_expt_shutdown" name="setup"/>
+  </testsuite>
+  <testsuite name="ds.ranksSecure::smk_expt::done" timestamp="2026-04-11T03:59:02Z" hostname="runnervm35a4x" tests="0" skipped="0" failures="0" errors="0" time="0"/>
+</testsuites>
